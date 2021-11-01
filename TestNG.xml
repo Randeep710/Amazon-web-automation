@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Amazon-web-automation-v1">
+	
+	<!--
+	<listeners>
+		<listener class-name="com.banking.utilities.Reporting" />
+	</listeners>
+	-->
+
+
+	<test name="Amazon Web Test">
+		<parameter name="browser" value="chrome" />
+		<classes>
+		<!--  
+			#Put here, test cases that are not to be executed
+			
+		-->
+			<class name="com.amazon.testCases.TC_ChangeLanguageSettingsPageTest_001" />
+			<class name="com.amazon.testCases.TC_ChangePageLanguageTest_002" />
+			<class name="com.amazon.testCases.TC_SearchAProductTest_003" />
+			<class name="com.amazon.testCases.TC_AddAProductToCartTest_004" />
+			<class name="com.amazon.testCases.TC_RemoveAProductFromCartTest_005" />
+			
+			
+
+		</classes>
+
+	</test>
+
+</suite>

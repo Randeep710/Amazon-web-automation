@@ -1,0 +1,805 @@
+2021-10-23 14:16:48,231 [main] INFO amazonWeb - URL is opened
+2021-10-23 14:16:54,478 [main] INFO amazonWeb - clicked on Change Language link
+2021-10-23 14:16:54,632 [main] INFO amazonWeb - selected Hindi language
+2021-10-23 14:17:01,632 [main] INFO amazonWeb - clicked on Save button
+2021-10-24 08:50:49,544 [main] INFO amazonWeb - URL is opened
+2021-10-24 08:50:57,052 [main] INFO amazonWeb - clicked on Change Language link
+2021-10-24 08:50:57,232 [main] INFO amazonWeb - selected Hindi language
+2021-10-24 08:51:06,108 [main] INFO amazonWeb - clicked on Save button
+2021-10-24 09:48:12,354 [main] INFO amazonWeb - URL is opened
+2021-10-24 09:48:19,447 [main] INFO amazonWeb - clicked on Change Language link
+2021-10-24 09:48:19,953 [main] INFO amazonWeb - selected Hindi language
+2021-10-24 09:48:28,546 [main] INFO amazonWeb - clicked on Save button
+2021-10-24 10:23:54,768 [main] INFO amazonWeb - URL is opened
+2021-10-24 10:24:01,909 [main] INFO amazonWeb - clicked on Change Language link
+2021-10-24 10:24:02,287 [main] INFO amazonWeb - selected Hindi language
+2021-10-24 10:24:06,699 [main] INFO amazonWeb - clicked on Save button
+2021-10-24 10:24:38,333 [main] INFO amazonWeb - URL is opened
+2021-10-24 10:24:45,035 [main] INFO amazonWeb - clicked on Change Language link
+2021-10-24 10:24:45,225 [main] INFO amazonWeb - selected Hindi language
+2021-10-24 10:24:52,519 [main] INFO amazonWeb - clicked on Save button
+2021-10-24 10:25:10,816 [main] INFO amazonWeb - URL is opened
+2021-10-24 10:25:16,991 [main] INFO amazonWeb - clicked on Change Language link
+2021-10-24 10:25:17,339 [main] INFO amazonWeb - selected Hindi language
+2021-10-24 10:25:24,818 [main] INFO amazonWeb - clicked on Save button
+2021-10-24 10:56:51,430 [main] INFO amazonWeb - URL is opened
+2021-10-24 11:00:32,864 [main] INFO amazonWeb - URL is opened
+2021-10-24 11:00:36,786 [main] INFO amazonWeb - Search Category is selected
+2021-10-24 11:00:41,771 [main] INFO amazonWeb - Search Text is entered
+2021-10-24 11:00:45,057 [main] INFO amazonWeb - Test Case status : PASSED
+2021-10-24 11:38:33,487 [main] INFO amazonWeb - URL is opened
+2021-10-24 11:38:39,971 [main] INFO amazonWeb - clicked on Change Language link
+2021-10-24 11:38:40,132 [main] INFO amazonWeb - selected Hindi language
+2021-10-24 11:38:48,100 [main] INFO amazonWeb - clicked on Save button
+2021-10-24 11:39:04,495 [main] INFO amazonWeb - URL is opened
+2021-10-24 11:39:09,108 [main] INFO amazonWeb - Search Category is selected
+2021-10-24 11:39:16,680 [main] INFO amazonWeb - Search Text is entered
+2021-10-24 11:39:19,975 [main] INFO amazonWeb - Test Case status : PASSED
+2021-10-24 17:02:22,126 [main] INFO amazonWeb - URL is opened
+2021-10-24 20:36:32,612 [main] INFO amazonWeb - URL is opened
+2021-10-24 20:41:39,605 [main] INFO amazonWeb - URL is opened
+2021-10-24 20:41:40,550 [main] INFO amazonWeb - Search Category is selected
+2021-10-24 20:41:42,417 [main] INFO amazonWeb - Search Text is entered
+2021-10-24 20:41:45,605 [main] INFO amazonWeb - Product Link is clicked
+2021-10-24 20:42:40,689 [main] INFO amazonWeb - URL is opened
+2021-10-24 20:42:41,682 [main] INFO amazonWeb - Search Category is selected
+2021-10-24 20:42:43,664 [main] INFO amazonWeb - Search Text is entered
+2021-10-24 20:42:46,852 [main] INFO amazonWeb - Product Link is clicked
+2021-10-24 20:43:31,329 [main] INFO amazonWeb - URL is opened
+2021-10-24 20:43:32,459 [main] INFO amazonWeb - Search Category is selected
+2021-10-24 20:43:34,369 [main] INFO amazonWeb - Search Text is entered
+2021-10-24 20:43:37,563 [main] INFO amazonWeb - Product Link is clicked
+2021-10-24 20:48:25,958 [main] INFO amazonWeb - URL is opened
+2021-10-24 20:48:27,122 [main] INFO amazonWeb - Search Category is selected
+2021-10-24 20:48:29,063 [main] INFO amazonWeb - Search Text is entered
+2021-10-24 20:48:32,313 [main] INFO amazonWeb - Product Link is clicked
+2021-10-25 17:51:46,094 [main] INFO amazonWeb - URL is opened
+2021-10-25 17:51:50,796 [main] INFO amazonWeb - Search Category is selected
+2021-10-25 17:52:00,285 [main] INFO amazonWeb - Search Text is entered
+2021-10-25 19:53:08,251 [main] INFO amazonWeb - URL is opened
+2021-10-25 20:16:17,628 [main] INFO amazonWeb - URL is opened
+2021-10-25 20:27:31,753 [main] INFO amazonWeb - URL is opened
+2021-10-25 20:30:12,877 [main] INFO amazonWeb - URL is opened
+2021-10-25 20:31:32,393 [main] INFO amazonWeb - URL is opened
+2021-10-25 20:33:02,641 [main] INFO amazonWeb - URL is opened
+2021-10-25 20:35:12,419 [main] INFO amazonWeb - URL is opened
+2021-10-25 20:39:15,908 [main] INFO amazonWeb - URL is opened
+2021-10-25 20:39:19,115 [main] INFO amazonWeb - clicked on Hindi Language link
+2021-10-25 20:42:20,090 [main] INFO amazonWeb - URL is opened
+2021-10-25 20:42:23,292 [main] INFO amazonWeb - clicked on Hindi Language link
+2021-10-25 20:44:27,016 [main] INFO amazonWeb - URL is opened
+2021-10-25 20:44:33,248 [main] INFO amazonWeb - clicked on Hindi Language link
+2021-10-25 20:46:13,214 [main] INFO amazonWeb - URL is opened
+2021-10-25 20:46:19,450 [main] INFO amazonWeb - clicked on Hindi Language link
+2021-10-26 03:24:44,708 [main] INFO amazonWeb - URL is opened
+2021-10-26 03:26:12,185 [main] INFO amazonWeb - URL is opened
+2021-10-26 03:39:56,284 [main] INFO amazonWeb - URL is opened
+2021-10-26 03:42:25,831 [main] INFO amazonWeb - URL is opened
+2021-10-26 03:42:29,973 [main] INFO amazonWeb - clicked on Hindi Language link
+2021-10-26 03:44:25,572 [main] INFO amazonWeb - URL is opened
+2021-10-26 03:44:28,804 [main] INFO amazonWeb - clicked on Hindi Language link
+2021-10-26 03:45:54,842 [main] INFO amazonWeb - URL is opened
+2021-10-26 03:45:59,179 [main] INFO amazonWeb - clicked on Hindi Language link
+2021-10-26 04:03:09,262 [main] INFO amazonWeb - URL is opened
+2021-10-26 04:03:15,473 [main] INFO amazonWeb - clicked on Hindi Language link
+2021-10-26 04:12:55,427 [main] INFO amazonWeb - URL is opened
+2021-10-26 04:13:01,703 [main] INFO amazonWeb - clicked on Hindi Language link
+2021-10-26 04:14:51,100 [main] INFO amazonWeb - URL is opened
+2021-10-26 04:14:57,333 [main] INFO amazonWeb - clicked on Hindi Language link
+2021-10-26 04:16:59,479 [main] INFO amazonWeb - URL is opened
+2021-10-26 04:17:05,702 [main] INFO amazonWeb - clicked on Hindi Language link
+2021-10-26 04:18:10,171 [main] INFO amazonWeb - URL is opened
+2021-10-26 04:18:16,389 [main] INFO amazonWeb - clicked on Hindi Language link
+2021-10-26 04:19:59,196 [main] INFO amazonWeb - URL is opened
+2021-10-26 04:20:05,426 [main] INFO amazonWeb - clicked on Hindi Language link
+2021-10-26 04:24:26,430 [main] INFO amazonWeb - URL is opened
+2021-10-26 04:24:32,660 [main] INFO amazonWeb - clicked on Hindi Language link
+2021-10-26 04:37:39,247 [main] INFO amazonWeb - URL is opened
+2021-10-26 04:37:45,468 [main] INFO amazonWeb - clicked on Hindi Language link
+2021-10-26 04:37:55,484 [main] INFO amazonWeb - inside IF as PASS
+2021-10-26 04:38:43,890 [main] INFO amazonWeb - URL is opened
+2021-10-26 04:38:50,135 [main] INFO amazonWeb - clicked on Hindi Language link
+2021-10-26 04:39:00,149 [main] INFO amazonWeb - inside IF as PASS
+2021-10-26 04:39:42,351 [main] INFO amazonWeb - URL is opened
+2021-10-26 04:39:48,564 [main] INFO amazonWeb - clicked on Hindi Language link
+2021-10-26 04:39:58,577 [main] INFO amazonWeb - inside ELSE as FAILED Test
+2021-10-26 04:41:44,636 [main] INFO amazonWeb - URL is opened
+2021-10-26 04:41:50,871 [main] INFO amazonWeb - clicked on Hindi Language link
+2021-10-26 04:42:00,890 [main] INFO amazonWeb - inside ELSE as FAILED Test
+2021-10-26 04:43:07,369 [main] INFO amazonWeb - URL is opened
+2021-10-26 04:43:13,596 [main] INFO amazonWeb - clicked on Hindi Language link
+2021-10-26 04:43:23,605 [main] INFO amazonWeb - inside IF as PASS
+2021-10-26 05:14:10,380 [main] INFO amazonWeb - URL is opened
+2021-10-26 05:14:16,598 [main] INFO amazonWeb - clicked on Hindi Language link
+2021-10-26 05:14:26,605 [main] INFO amazonWeb - inside ELSE as FAILED Test
+2021-10-26 09:48:30,730 [main] INFO amazonWeb - URL is opened
+2021-10-26 09:48:36,946 [main] INFO amazonWeb - clicked on Hindi Language link
+2021-10-26 09:48:46,956 [main] INFO amazonWeb - inside ELSE as FAILED Test
+2021-10-26 09:50:39,540 [main] INFO amazonWeb - URL is opened
+2021-10-26 09:50:45,771 [main] INFO amazonWeb - clicked on Hindi Language link
+2021-10-26 09:50:55,780 [main] INFO amazonWeb - inside ELSE as FAILED Test
+2021-10-26 10:05:52,057 [main] INFO amazonWeb - URL is opened
+2021-10-26 10:05:58,273 [main] INFO amazonWeb - clicked on Hindi Language link
+2021-10-26 10:06:08,281 [main] INFO amazonWeb - inside ELSE as FAILED Test
+2021-10-26 10:18:28,855 [main] INFO amazonWeb - URL is opened
+2021-10-26 10:18:35,144 [main] INFO amazonWeb - clicked on Hindi Language link
+2021-10-26 10:18:45,155 [main] INFO amazonWeb - inside ELSE as FAILED Test
+2021-10-26 10:20:43,255 [main] INFO amazonWeb - URL is opened
+2021-10-26 10:20:49,463 [main] INFO amazonWeb - clicked on Hindi Language link
+2021-10-26 10:20:59,472 [main] INFO amazonWeb - inside ELSE as FAILED Test
+2021-10-26 10:24:06,104 [main] INFO amazonWeb - URL is opened
+2021-10-26 10:24:12,335 [main] INFO amazonWeb - clicked on Hindi Language link
+2021-10-26 10:24:22,344 [main] INFO amazonWeb - inside ELSE as FAILED Test
+2021-10-26 10:27:37,368 [main] INFO amazonWeb - URL is opened
+2021-10-26 10:27:43,582 [main] INFO amazonWeb - clicked on Hindi Language link
+2021-10-26 10:27:53,589 [main] INFO amazonWeb - inside ELSE as FAILED Test
+2021-10-26 10:29:07,819 [main] INFO amazonWeb - URL is opened
+2021-10-26 10:29:14,055 [main] INFO amazonWeb - clicked on Hindi Language link
+2021-10-26 10:29:24,065 [main] INFO amazonWeb - inside ELSE as FAILED Test
+2021-10-26 10:46:50,890 [main] INFO amazonWeb - URL is opened
+2021-10-26 10:46:57,123 [main] INFO amazonWeb - clicked on Hindi Language link
+2021-10-26 10:47:07,133 [main] INFO amazonWeb - inside ELSE as FAILED Test
+2021-10-26 10:50:26,668 [main] INFO amazonWeb - URL is opened
+2021-10-26 10:50:32,902 [main] INFO amazonWeb - clicked on Hindi Language link
+2021-10-26 10:50:42,910 [main] INFO amazonWeb - inside ELSE as FAILED Test
+2021-10-26 10:52:15,890 [main] INFO amazonWeb - URL is opened
+2021-10-26 10:52:22,137 [main] INFO amazonWeb - clicked on Hindi Language link
+2021-10-26 10:52:28,143 [main] INFO amazonWeb - inside ELSE as FAILED Test
+2021-10-26 10:53:30,544 [main] INFO amazonWeb - URL is opened
+2021-10-26 10:53:36,792 [main] INFO amazonWeb - clicked on Hindi Language link
+2021-10-26 10:53:42,801 [main] INFO amazonWeb - inside ELSE as FAILED Test
+2021-10-26 11:04:30,934 [main] INFO amazonWeb - URL is opened
+2021-10-26 11:08:39,211 [main] INFO amazonWeb - URL is opened
+2021-10-26 11:08:45,924 [main] INFO amazonWeb - clicked on Hindi Language link
+2021-10-26 11:08:51,933 [main] INFO amazonWeb - inside ELSE as FAILED Test
+2021-10-26 11:16:34,892 [main] INFO amazonWeb - URL is opened
+2021-10-26 11:18:46,943 [main] INFO amazonWeb - URL is opened
+2021-10-26 11:20:22,453 [main] INFO amazonWeb - URL is opened
+2021-10-26 11:20:28,696 [main] INFO amazonWeb - clicked on Hindi Language link
+2021-10-26 11:20:34,706 [main] INFO amazonWeb - inside ELSE as FAILED Test
+2021-10-26 11:22:59,379 [main] INFO amazonWeb - URL is opened
+2021-10-26 11:23:05,630 [main] INFO amazonWeb - clicked on Hindi Language link
+2021-10-26 11:23:11,639 [main] INFO amazonWeb - inside ELSE as FAILED Test
+2021-10-26 11:26:09,644 [main] INFO amazonWeb - URL is opened
+2021-10-26 11:26:15,903 [main] INFO amazonWeb - clicked on Hindi Language link
+2021-10-26 11:26:21,912 [main] INFO amazonWeb - inside ELSE as FAILED Test
+2021-10-26 13:10:27,281 [main] INFO amazonWeb - URL is opened
+2021-10-26 13:10:28,948 [main] INFO amazonWeb - Clicked on chage language link inside Landing Page
+2021-10-26 13:10:32,093 [main] INFO amazonWeb - Clicked on HINDI language link inside Change Language Settings Page
+2021-10-26 13:10:32,592 [main] INFO amazonWeb - Clicked on SAVE button inside Change Language Settings Page
+2021-10-26 13:10:35,612 [main] INFO amazonWeb - Test Case status : FAILED
+2021-10-26 13:11:06,214 [main] INFO amazonWeb - URL is opened
+2021-10-26 13:11:07,855 [main] INFO amazonWeb - Clicked on chage language link inside Landing Page
+2021-10-26 13:11:10,999 [main] INFO amazonWeb - Clicked on HINDI language link inside Change Language Settings Page
+2021-10-26 13:11:14,637 [main] INFO amazonWeb - Clicked on SAVE button inside Change Language Settings Page
+2021-10-26 13:11:17,677 [main] INFO amazonWeb - Test Case status : PASSED
+2021-10-26 13:47:03,490 [main] INFO amazonWeb - URL is opened
+2021-10-26 13:47:07,629 [main] INFO amazonWeb - Search Category is selected
+2021-10-26 13:47:12,947 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-10-26 13:47:15,960 [main] INFO amazonWeb - Test Case status : PASSED
+2021-10-27 12:58:24,139 [main] INFO amazonWeb - URL is opened
+2021-10-27 12:58:25,590 [main] INFO amazonWeb - Search Category is selected
+2021-10-27 12:58:28,131 [main] INFO amazonWeb - Search Text is entered
+2021-10-27 13:01:38,353 [main] INFO amazonWeb - URL is opened
+2021-10-27 13:01:39,546 [main] INFO amazonWeb - Search Category is selected
+2021-10-27 13:01:42,392 [main] INFO amazonWeb - Search Text is entered
+2021-10-27 13:26:40,131 [main] INFO amazonWeb - URL is opened
+2021-10-27 13:26:41,151 [main] INFO amazonWeb - Search Category is selected
+2021-10-27 13:26:43,589 [main] INFO amazonWeb - Search Text is entered
+2021-10-27 13:39:59,562 [main] INFO amazonWeb - URL is opened
+2021-10-27 13:40:00,532 [main] INFO amazonWeb - Search Category is selected
+2021-10-27 13:40:03,144 [main] INFO amazonWeb - Search Text is entered
+2021-10-27 13:40:15,428 [main] INFO amazonWeb - Test Case status : PASSED
+2021-10-27 13:42:18,525 [main] INFO amazonWeb - URL is opened
+2021-10-27 13:42:19,671 [main] INFO amazonWeb - Search Category is selected
+2021-10-27 13:42:22,170 [main] INFO amazonWeb - Search Text is entered
+2021-10-27 14:29:53,131 [main] INFO amazonWeb - URL is opened
+2021-10-27 14:30:14,032 [main] INFO amazonWeb - URL is opened
+2021-10-27 14:30:15,037 [main] INFO amazonWeb - Search Category is selected
+2021-10-27 14:30:17,427 [main] INFO amazonWeb - Search Text is entered
+2021-10-27 14:30:29,823 [main] INFO amazonWeb - Selected Blue color model
+2021-10-27 21:08:22,032 [main] INFO amazonWeb - URL is opened
+2021-10-27 21:08:23,102 [main] INFO amazonWeb - Search Category is selected
+2021-10-27 21:08:26,214 [main] INFO amazonWeb - Search Text is entered
+2021-10-27 21:09:03,716 [main] INFO amazonWeb - URL is opened
+2021-10-27 21:09:04,812 [main] INFO amazonWeb - Search Category is selected
+2021-10-27 21:09:06,953 [main] INFO amazonWeb - Search Text is entered
+2021-10-27 21:44:27,968 [main] INFO amazonWeb - URL is opened
+2021-10-27 21:44:28,923 [main] INFO amazonWeb - Search Category is selected
+2021-10-27 21:44:31,524 [main] INFO amazonWeb - Search Text is entered
+2021-10-27 21:44:43,935 [main] INFO amazonWeb - Selected Blue color model
+2021-10-27 21:44:44,187 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-27 21:44:44,424 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-27 22:19:11,439 [main] INFO amazonWeb - URL is opened
+2021-10-27 22:19:12,449 [main] INFO amazonWeb - Search Category is selected
+2021-10-27 22:19:16,586 [main] INFO amazonWeb - Search Text is entered
+2021-10-27 22:19:43,975 [main] INFO amazonWeb - Selected Blue color model
+2021-10-27 22:19:44,236 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-27 22:19:44,374 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-27 22:20:36,148 [main] INFO amazonWeb - URL is opened
+2021-10-27 22:20:37,156 [main] INFO amazonWeb - Search Category is selected
+2021-10-27 22:20:40,895 [main] INFO amazonWeb - Search Text is entered
+2021-10-27 22:20:53,304 [main] INFO amazonWeb - Selected Blue color model
+2021-10-27 22:21:32,228 [main] INFO amazonWeb - URL is opened
+2021-10-27 22:21:33,425 [main] INFO amazonWeb - Search Category is selected
+2021-10-27 22:21:37,604 [main] INFO amazonWeb - Search Text is entered
+2021-10-27 22:21:53,905 [main] INFO amazonWeb - Selected Blue color model
+2021-10-27 22:23:00,837 [main] INFO amazonWeb - URL is opened
+2021-10-27 22:23:01,877 [main] INFO amazonWeb - Search Category is selected
+2021-10-27 22:23:06,151 [main] INFO amazonWeb - Search Text is entered
+2021-10-27 22:23:18,573 [main] INFO amazonWeb - Selected Blue color model
+2021-10-27 22:23:18,793 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-27 22:23:18,929 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-27 22:26:04,857 [main] INFO amazonWeb - URL is opened
+2021-10-27 22:26:05,807 [main] INFO amazonWeb - Search Category is selected
+2021-10-27 22:26:10,804 [main] INFO amazonWeb - Search Text is entered
+2021-10-27 22:26:29,900 [main] INFO amazonWeb - Selected Blue color model
+2021-10-27 22:27:08,479 [main] INFO amazonWeb - URL is opened
+2021-10-27 22:27:09,489 [main] INFO amazonWeb - Search Category is selected
+2021-10-27 22:27:11,846 [main] INFO amazonWeb - Search Text is entered
+2021-10-27 22:27:24,268 [main] INFO amazonWeb - Selected Blue color model
+2021-10-27 22:27:24,503 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-27 22:27:24,667 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-27 22:28:05,032 [main] INFO amazonWeb - URL is opened
+2021-10-27 22:28:06,159 [main] INFO amazonWeb - Search Category is selected
+2021-10-27 22:28:10,026 [main] INFO amazonWeb - Search Text is entered
+2021-10-27 22:28:25,929 [main] INFO amazonWeb - Selected Blue color model
+2021-10-27 22:28:26,159 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-27 22:28:26,299 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-27 22:29:54,538 [main] INFO amazonWeb - URL is opened
+2021-10-27 22:29:55,730 [main] INFO amazonWeb - Search Category is selected
+2021-10-27 22:29:59,664 [main] INFO amazonWeb - Search Text is entered
+2021-10-27 22:30:12,020 [main] INFO amazonWeb - Selected Blue color model
+2021-10-27 22:30:12,232 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-27 22:30:12,373 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-27 22:47:36,562 [main] INFO amazonWeb - URL is opened
+2021-10-27 22:47:37,656 [main] INFO amazonWeb - Search Category is selected
+2021-10-27 22:47:42,446 [main] INFO amazonWeb - Search Text is entered
+2021-10-27 22:48:07,761 [main] INFO amazonWeb - Selected Blue color model
+2021-10-27 22:48:08,008 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-27 22:48:08,157 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-27 22:52:31,523 [main] INFO amazonWeb - URL is opened
+2021-10-27 22:52:32,744 [main] INFO amazonWeb - Search Category is selected
+2021-10-27 22:52:37,150 [main] INFO amazonWeb - Search Text is entered
+2021-10-27 22:53:01,853 [main] INFO amazonWeb - Selected Blue color model
+2021-10-27 22:53:02,108 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-27 22:53:02,244 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 00:14:25,387 [main] INFO amazonWeb - URL is opened
+2021-10-28 00:14:26,327 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 00:14:28,074 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 00:15:01,403 [main] INFO amazonWeb - URL is opened
+2021-10-28 00:15:02,376 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 00:15:04,127 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 00:15:50,053 [main] INFO amazonWeb - URL is opened
+2021-10-28 00:15:51,060 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 00:15:52,794 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 00:16:05,003 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 00:16:05,003 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 00:16:05,148 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 00:16:15,218 [main] INFO amazonWeb - Test Case Status : PASSED
+2021-10-28 00:17:16,235 [main] INFO amazonWeb - URL is opened
+2021-10-28 00:17:17,495 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 00:17:19,390 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 00:17:31,676 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 00:17:31,676 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 00:17:31,856 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 00:18:43,103 [main] INFO amazonWeb - URL is opened
+2021-10-28 00:18:44,077 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 00:18:45,920 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 00:18:58,154 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 00:18:58,154 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 00:19:41,846 [main] INFO amazonWeb - URL is opened
+2021-10-28 00:19:42,785 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 00:19:44,671 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 00:19:56,890 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 00:19:56,890 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 00:19:57,032 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 01:21:38,232 [main] INFO amazonWeb - URL is opened
+2021-10-28 01:21:39,297 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 01:21:41,235 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 01:21:53,477 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 01:21:53,477 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 01:21:53,661 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 01:22:04,008 [main] INFO amazonWeb - Test Case Status : PASSED
+2021-10-28 01:34:46,772 [main] INFO amazonWeb - URL is opened
+2021-10-28 01:34:47,752 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 01:34:49,532 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 01:35:01,792 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 01:35:01,792 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 01:35:02,002 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 01:39:16,387 [main] INFO amazonWeb - URL is opened
+2021-10-28 01:39:17,283 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 01:39:19,796 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 01:39:31,996 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 01:39:31,996 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 01:40:50,357 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 01:41:45,682 [main] INFO amazonWeb - URL is opened
+2021-10-28 01:41:46,663 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 01:41:48,652 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 01:42:00,881 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 01:42:00,881 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 01:42:01,065 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 03:31:37,095 [main] INFO amazonWeb - URL is opened
+2021-10-28 03:31:38,004 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 03:31:39,974 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 03:31:52,217 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 03:31:52,217 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 03:31:52,421 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 03:38:36,609 [main] INFO amazonWeb - URL is opened
+2021-10-28 03:38:37,552 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 03:38:43,801 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 03:38:56,068 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 03:38:56,068 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 03:38:56,301 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 03:40:08,589 [main] INFO amazonWeb - URL is opened
+2021-10-28 03:40:09,549 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 03:40:11,227 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 03:40:23,462 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 03:40:23,462 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 03:40:23,681 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 03:47:16,856 [main] INFO amazonWeb - URL is opened
+2021-10-28 03:47:17,793 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 03:47:19,727 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 03:47:31,956 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 03:47:31,956 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 03:47:32,152 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 03:50:35,805 [main] INFO amazonWeb - URL is opened
+2021-10-28 03:50:36,801 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 03:50:38,981 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 03:50:51,241 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 03:50:51,241 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 03:50:51,427 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 04:14:28,019 [main] INFO amazonWeb - URL is opened
+2021-10-28 04:14:29,042 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 04:14:31,953 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 04:14:44,183 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 04:14:44,183 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 04:14:44,446 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 04:19:40,119 [main] INFO amazonWeb - URL is opened
+2021-10-28 04:19:41,070 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 04:19:42,910 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 04:19:55,154 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 04:19:55,154 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 04:19:55,350 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 04:23:41,876 [main] INFO amazonWeb - URL is opened
+2021-10-28 04:23:42,860 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 04:23:44,705 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 04:23:57,007 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 04:23:57,007 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 04:23:57,210 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 13:40:34,820 [main] INFO amazonWeb - URL is opened
+2021-10-28 13:40:36,896 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 13:40:39,425 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 13:40:51,930 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 13:40:51,930 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 13:40:52,108 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 13:42:31,725 [main] INFO amazonWeb - URL is opened
+2021-10-28 13:42:32,706 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 13:42:34,527 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 13:42:46,763 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 13:42:46,763 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 13:42:46,972 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 19:28:18,437 [main] INFO amazonWeb - URL is opened
+2021-10-28 19:28:19,420 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 19:28:21,627 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 19:28:33,859 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 19:28:33,859 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 19:28:34,007 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 19:33:19,424 [main] INFO amazonWeb - URL is opened
+2021-10-28 19:33:20,394 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 19:33:22,323 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 19:33:34,590 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 19:33:34,591 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 19:33:34,749 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 19:37:00,576 [main] INFO amazonWeb - URL is opened
+2021-10-28 19:37:01,706 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 19:37:03,717 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 19:37:15,995 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 19:37:15,995 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 19:37:16,229 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 19:37:58,924 [main] INFO amazonWeb - URL is opened
+2021-10-28 19:38:00,043 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 19:38:04,117 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 19:38:16,398 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 19:38:16,398 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 19:38:16,575 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 19:40:06,063 [main] INFO amazonWeb - URL is opened
+2021-10-28 19:40:07,080 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 19:40:09,468 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 19:40:21,685 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 19:40:21,685 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 19:40:21,876 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 19:42:42,030 [main] INFO amazonWeb - URL is opened
+2021-10-28 19:42:43,129 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 19:42:45,469 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 19:42:57,699 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 19:42:57,699 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 19:42:57,882 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 19:49:28,771 [main] INFO amazonWeb - URL is opened
+2021-10-28 19:49:29,755 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 19:49:32,969 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 19:49:45,182 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 19:49:45,182 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 19:49:45,360 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 19:52:09,552 [main] INFO amazonWeb - URL is opened
+2021-10-28 19:52:10,485 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 19:52:12,541 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 19:52:24,770 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 19:52:24,770 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 19:52:24,953 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 19:59:45,819 [main] INFO amazonWeb - URL is opened
+2021-10-28 19:59:46,792 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 19:59:48,574 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 20:00:00,839 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 20:00:00,840 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 20:00:01,023 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 20:00:09,321 [main] INFO amazonWeb - Test Case Status : PASSED
+2021-10-28 20:04:16,328 [main] INFO amazonWeb - URL is opened
+2021-10-28 20:04:17,304 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 20:04:19,170 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 20:04:31,389 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 20:04:31,389 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 20:04:31,616 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 20:04:33,757 [main] INFO amazonWeb - Test Case Status : PASSED
+2021-10-28 20:08:47,856 [main] INFO amazonWeb - URL is opened
+2021-10-28 20:08:48,799 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 20:08:50,756 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 20:09:03,001 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 20:09:03,001 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 20:09:03,180 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 20:10:44,922 [main] INFO amazonWeb - URL is opened
+2021-10-28 20:10:45,910 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 20:10:48,154 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 20:11:03,385 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 20:11:03,385 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 20:11:03,565 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 20:40:28,063 [main] INFO amazonWeb - URL is opened
+2021-10-28 20:40:29,054 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 20:40:31,541 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 20:40:46,784 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 20:40:46,784 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 20:40:46,930 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 21:32:42,438 [main] INFO amazonWeb - URL is opened
+2021-10-28 21:32:43,436 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 21:32:45,334 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 21:33:00,568 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 21:33:00,568 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 21:33:00,747 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 21:41:36,498 [main] INFO amazonWeb - URL is opened
+2021-10-28 21:41:37,461 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 21:41:39,481 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 21:41:54,760 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 21:41:54,760 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 21:41:54,949 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 21:41:59,992 [main] INFO amazonWeb - Test Case Status : PASSED
+2021-10-28 21:49:18,938 [main] INFO amazonWeb - URL is opened
+2021-10-28 21:49:19,930 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 21:49:23,361 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 21:49:38,594 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 21:49:38,594 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 21:49:38,770 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 21:52:20,500 [main] INFO amazonWeb - URL is opened
+2021-10-28 21:52:21,666 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 21:52:24,150 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 21:52:39,380 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 21:52:39,380 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 21:52:39,561 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 21:56:10,661 [main] INFO amazonWeb - URL is opened
+2021-10-28 21:56:11,711 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 21:56:13,809 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 21:56:29,052 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 21:56:29,052 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 21:56:29,231 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 22:08:44,156 [main] INFO amazonWeb - URL is opened
+2021-10-28 22:08:47,423 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 22:08:51,415 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 22:09:06,625 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 22:09:06,625 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 22:09:06,813 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 22:09:16,869 [main] INFO amazonWeb - Test Case Status : PASSED
+2021-10-28 22:28:42,031 [main] INFO amazonWeb - URL is opened
+2021-10-28 22:28:43,184 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 22:28:45,328 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 22:29:00,568 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 22:29:00,568 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 22:29:00,753 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 22:31:06,237 [main] INFO amazonWeb - URL is opened
+2021-10-28 22:31:07,197 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 22:31:09,705 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 22:31:24,941 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 22:31:24,941 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 22:31:25,126 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 22:41:15,101 [main] INFO amazonWeb - URL is opened
+2021-10-28 22:41:16,258 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 22:41:19,983 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 22:41:35,221 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 22:41:35,221 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 22:41:35,402 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 23:02:30,717 [main] INFO amazonWeb - URL is opened
+2021-10-28 23:02:31,766 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 23:02:35,739 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 23:02:50,964 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 23:02:50,964 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 23:02:51,150 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 23:03:01,265 [main] INFO amazonWeb - Test Case Status : PASSED
+2021-10-28 23:04:15,276 [main] INFO amazonWeb - URL is opened
+2021-10-28 23:04:31,236 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 23:04:34,990 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 23:04:50,555 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 23:04:50,555 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 23:04:50,733 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 23:05:00,811 [main] INFO amazonWeb - Test Case Status : PASSED
+2021-10-28 23:35:42,338 [main] INFO amazonWeb - URL is opened
+2021-10-28 23:35:43,378 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 23:35:45,434 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 23:36:00,676 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 23:36:00,676 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 23:36:00,855 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 23:36:10,951 [main] INFO amazonWeb - Test Case Status : PASSED
+2021-10-28 23:37:00,846 [main] INFO amazonWeb - URL is opened
+2021-10-28 23:37:01,872 [main] INFO amazonWeb - Search Category is selected
+2021-10-28 23:37:04,045 [main] INFO amazonWeb - Search Text is entered
+2021-10-28 23:37:19,319 [main] INFO amazonWeb - Selected Blue color model
+2021-10-28 23:37:19,319 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-28 23:37:19,515 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-28 23:37:29,583 [main] INFO amazonWeb - Test Case Status : PASSED
+2021-10-29 10:14:31,429 [main] INFO amazonWeb - URL is opened
+2021-10-29 10:14:32,647 [main] INFO amazonWeb - Search Category is selected
+2021-10-29 10:14:34,449 [main] INFO amazonWeb - Search Text is entered
+2021-10-29 10:14:46,680 [main] INFO amazonWeb - Selected Blue color model
+2021-10-29 10:14:46,680 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-29 10:14:46,866 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-29 10:14:56,940 [main] INFO amazonWeb - Test Case Status : PASSED
+2021-10-29 10:21:16,413 [main] INFO amazonWeb - URL is opened
+2021-10-29 10:21:17,537 [main] INFO amazonWeb - Search Category is selected
+2021-10-29 10:21:19,819 [main] INFO amazonWeb - Search Text is entered
+2021-10-29 10:21:29,043 [main] INFO amazonWeb - Selected Blue color model
+2021-10-29 10:21:29,043 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-29 10:21:29,252 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-29 10:22:21,326 [main] INFO amazonWeb - URL is opened
+2021-10-29 10:22:22,386 [main] INFO amazonWeb - Search Category is selected
+2021-10-29 10:22:24,155 [main] INFO amazonWeb - Search Text is entered
+2021-10-29 10:22:33,408 [main] INFO amazonWeb - Selected Blue color model
+2021-10-29 10:22:33,408 [main] INFO amazonWeb - Selected 128 GB RAM variant
+2021-10-29 10:22:33,594 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-29 10:25:03,337 [main] INFO amazonWeb - URL is opened
+2021-10-29 10:25:04,560 [main] INFO amazonWeb - Search Category is selected
+2021-10-29 10:25:06,407 [main] INFO amazonWeb - Search Text is entered
+2021-10-29 10:25:15,898 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-29 11:48:59,070 [main] INFO amazonWeb - URL is opened
+2021-10-29 11:49:00,007 [main] INFO amazonWeb - Search Category is selected
+2021-10-29 11:49:02,073 [main] INFO amazonWeb - Search Text is entered
+2021-10-29 11:49:11,500 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-29 11:58:23,470 [main] INFO amazonWeb - URL is opened
+2021-10-29 11:58:24,546 [main] INFO amazonWeb - Search Category is selected
+2021-10-29 11:58:26,601 [main] INFO amazonWeb - Search Text is entered
+2021-10-29 11:58:36,182 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-29 11:58:37,961 [main] INFO amazonWeb - Verified visisbility of Added to Cart message on screen
+2021-10-29 11:58:37,961 [main] INFO amazonWeb - Test Case Status : PASSED
+2021-10-29 12:03:17,885 [main] INFO amazonWeb - URL is opened
+2021-10-29 12:03:18,939 [main] INFO amazonWeb - Search Category is selected
+2021-10-29 12:03:20,965 [main] INFO amazonWeb - Search Text is entered
+2021-10-29 12:03:30,490 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-29 12:03:32,207 [main] INFO amazonWeb - Verified visisbility of Added to Cart message on screen
+2021-10-29 12:03:32,208 [main] INFO amazonWeb - Test Case Status : PASSED
+2021-10-29 12:05:35,243 [main] INFO amazonWeb - URL is opened
+2021-10-29 12:05:36,251 [main] INFO amazonWeb - Search Category is selected
+2021-10-29 12:05:38,476 [main] INFO amazonWeb - Search Text is entered
+2021-10-29 12:05:47,898 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-29 12:05:49,594 [main] INFO amazonWeb - Verified visisbility of Added to Cart message on screen
+2021-10-29 12:05:49,595 [main] INFO amazonWeb - Test Case Status : PASSED
+2021-10-29 12:27:31,567 [main] INFO amazonWeb - URL is opened
+2021-10-29 12:27:32,649 [main] INFO amazonWeb - Search Category is selected
+2021-10-29 12:27:34,450 [main] INFO amazonWeb - Search Text is entered
+2021-10-29 12:27:43,923 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-29 12:27:46,093 [main] INFO amazonWeb - Verified visisbility of Added to Cart message on screen
+2021-10-29 12:27:46,094 [main] INFO amazonWeb - Test Case Status : PASSED
+2021-10-29 12:28:46,783 [main] INFO amazonWeb - URL is opened
+2021-10-29 12:28:47,745 [main] INFO amazonWeb - Search Category is selected
+2021-10-29 12:28:49,745 [main] INFO amazonWeb - Search Text is entered
+2021-10-29 12:28:59,208 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-29 12:29:04,271 [main] INFO amazonWeb - Verified visisbility of Added to Cart message on screen
+2021-10-29 12:29:04,272 [main] INFO amazonWeb - Test Case Status : PASSED
+2021-10-29 12:30:37,645 [main] INFO amazonWeb - URL is opened
+2021-10-29 12:30:38,615 [main] INFO amazonWeb - Search Category is selected
+2021-10-29 12:30:40,633 [main] INFO amazonWeb - Search Text is entered
+2021-10-29 12:30:50,071 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-29 12:30:55,139 [main] INFO amazonWeb - Verified visisbility of Added to Cart message on screen
+2021-10-29 12:30:55,140 [main] INFO amazonWeb - Test Case Status : PASSED
+2021-10-29 12:31:46,988 [main] INFO amazonWeb - URL is opened
+2021-10-29 12:31:47,989 [main] INFO amazonWeb - Search Category is selected
+2021-10-29 12:31:50,097 [main] INFO amazonWeb - Search Text is entered
+2021-10-29 12:31:59,540 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-29 12:32:01,115 [main] INFO amazonWeb - Verified visisbility of Added to Cart message on screen
+2021-10-29 12:32:01,115 [main] INFO amazonWeb - Test Case Status : PASSED
+2021-10-29 12:32:56,121 [main] INFO amazonWeb - URL is opened
+2021-10-29 12:32:57,061 [main] INFO amazonWeb - Search Category is selected
+2021-10-29 12:32:59,025 [main] INFO amazonWeb - Search Text is entered
+2021-10-29 12:33:08,460 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-29 12:33:11,572 [main] INFO amazonWeb - Verified visisbility of Added to Cart message on screen
+2021-10-29 12:33:11,572 [main] INFO amazonWeb - Test Case Status : PASSED
+2021-10-29 12:33:36,958 [main] INFO amazonWeb - URL is opened
+2021-10-29 12:33:37,935 [main] INFO amazonWeb - Search Category is selected
+2021-10-29 12:33:39,890 [main] INFO amazonWeb - Search Text is entered
+2021-10-29 12:33:46,320 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-29 12:33:49,399 [main] INFO amazonWeb - Verified visisbility of Added to Cart message on screen
+2021-10-29 12:33:49,399 [main] INFO amazonWeb - Test Case Status : PASSED
+2021-10-29 12:41:24,283 [main] INFO amazonWeb - URL is opened
+2021-10-29 12:41:25,415 [main] INFO amazonWeb - Search Category is selected
+2021-10-29 12:41:27,377 [main] INFO amazonWeb - Search Text is entered
+2021-10-29 12:41:33,847 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-29 12:41:36,973 [main] INFO amazonWeb - Verified visisbility of Added to Cart message on screen
+2021-10-29 12:41:36,974 [main] INFO amazonWeb - Test Case Status : PASSED
+2021-10-29 12:48:39,174 [main] INFO amazonWeb - URL is opened
+2021-10-29 12:48:40,135 [main] INFO amazonWeb - Search Category is selected
+2021-10-29 12:48:41,933 [main] INFO amazonWeb - Search Text is entered
+2021-10-29 12:48:48,396 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-29 12:48:51,479 [main] INFO amazonWeb - Verified visisbility of Added to Cart message on screen
+2021-10-29 12:51:41,574 [main] INFO amazonWeb - URL is opened
+2021-10-29 12:51:42,672 [main] INFO amazonWeb - Search Category is selected
+2021-10-29 12:51:45,710 [main] INFO amazonWeb - Search Text is entered
+2021-10-29 12:51:52,560 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-29 12:51:55,684 [main] INFO amazonWeb - Verified visisbility of Added to Cart message on screen
+2021-10-29 12:51:58,298 [main] INFO amazonWeb - Test Case Status : PASSED
+2021-10-29 13:01:41,504 [main] INFO amazonWeb - URL is opened
+2021-10-29 13:01:42,487 [main] INFO amazonWeb - Search Category is selected
+2021-10-29 13:01:44,388 [main] INFO amazonWeb - Search Text is entered
+2021-10-29 13:01:50,783 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-29 13:01:53,920 [main] INFO amazonWeb - Verified visisbility of Added to Cart message on screen
+2021-10-29 13:02:03,515 [main] INFO amazonWeb - Test Case Status : PASSED
+2021-10-29 13:20:02,322 [main] INFO amazonWeb - URL is opened
+2021-10-29 13:20:03,435 [main] INFO amazonWeb - Search Category is selected
+2021-10-29 13:20:05,379 [main] INFO amazonWeb - Search Text is entered
+2021-10-29 13:20:11,811 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-29 13:20:14,943 [main] INFO amazonWeb - Verified visisbility of Added to Cart message on screen
+2021-10-29 13:25:12,743 [main] INFO amazonWeb - URL is opened
+2021-10-29 13:25:13,722 [main] INFO amazonWeb - Search Category is selected
+2021-10-29 13:25:16,078 [main] INFO amazonWeb - Search Text is entered
+2021-10-29 13:25:22,439 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-29 13:25:25,568 [main] INFO amazonWeb - Verified visisbility of Added to Cart message on screen
+2021-10-29 14:02:33,776 [main] INFO amazonWeb - URL is opened
+2021-10-29 14:02:34,921 [main] INFO amazonWeb - Search Category is selected
+2021-10-29 14:02:36,824 [main] INFO amazonWeb - Search Text is entered
+2021-10-29 14:02:43,223 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-29 14:02:46,350 [main] INFO amazonWeb - Verified visisbility of Added to Cart message on screen
+2021-10-29 14:02:56,453 [main] INFO amazonWeb - Test Case Status : PASSED
+2021-10-29 14:17:08,247 [main] INFO amazonWeb - URL is opened
+2021-10-29 14:17:09,297 [main] INFO amazonWeb - Search Category is selected
+2021-10-29 14:17:11,265 [main] INFO amazonWeb - Search Text is entered
+2021-10-29 14:17:17,722 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-29 14:17:20,882 [main] INFO amazonWeb - Verified visisbility of Added to Cart message on screen
+2021-10-29 14:17:30,490 [main] INFO amazonWeb - Test Case Status : PASSED
+2021-10-29 14:20:41,006 [main] INFO amazonWeb - URL is opened
+2021-10-29 14:20:42,084 [main] INFO amazonWeb - Search Category is selected
+2021-10-29 14:20:44,392 [main] INFO amazonWeb - Search Text is entered
+2021-10-29 14:20:50,822 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-29 14:20:53,927 [main] INFO amazonWeb - Verified visisbility of Added to Cart message on screen
+2021-10-29 14:20:58,887 [main] INFO amazonWeb - Test Case Status : PASSED
+2021-10-29 14:32:29,519 [main] INFO amazonWeb - URL is opened
+2021-10-29 14:32:30,608 [main] INFO amazonWeb - Search Category is selected
+2021-10-29 14:32:34,486 [main] INFO amazonWeb - Search Text is entered
+2021-10-29 14:32:40,959 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-29 14:32:44,048 [main] INFO amazonWeb - Verified visisbility of Added to Cart message on screen
+2021-10-29 14:32:49,567 [main] INFO amazonWeb - Test Case Status : PASSED
+2021-10-29 14:36:20,268 [main] INFO amazonWeb - URL is opened
+2021-10-29 14:36:21,242 [main] INFO amazonWeb - Search Category is selected
+2021-10-29 14:36:23,627 [main] INFO amazonWeb - Search Text is entered
+2021-10-29 14:36:30,075 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-29 14:36:33,168 [main] INFO amazonWeb - Verified visisbility of Added to Cart message on screen
+2021-10-29 14:36:39,371 [main] INFO amazonWeb - Verified visisbility of Your Cart is empty message on screen
+2021-10-29 14:36:39,378 [main] INFO amazonWeb - Test Case Status : PASSED
+2021-10-29 14:52:17,441 [main] INFO amazonWeb - URL is opened
+2021-10-29 15:05:06,340 [main] INFO amazonWeb - URL is opened
+2021-10-29 15:05:11,284 [main] INFO amazonWeb - Page Language is changed
+2021-10-29 15:05:14,304 [main] INFO amazonWeb - Test Case status : PASSED
+2021-10-29 15:05:44,751 [main] INFO amazonWeb - URL is opened
+2021-10-29 15:05:50,009 [main] INFO amazonWeb - Page Language is changed
+2021-10-29 15:05:50,050 [main] INFO amazonWeb - Test Case status : PASSED
+2021-10-29 15:08:10,933 [main] INFO amazonWeb - URL is opened
+2021-10-29 15:08:14,545 [main] INFO amazonWeb - Page Language is changed
+2021-10-29 15:08:14,607 [main] INFO amazonWeb - Test Case status : PASSED
+2021-10-29 15:15:01,507 [main] INFO amazonWeb - URL is opened
+2021-10-29 15:15:02,609 [main] INFO amazonWeb - Clicked on chage language link inside Landing Page
+2021-10-29 15:15:05,712 [main] INFO amazonWeb - Clicked on HINDI language link inside Change Language Settings Page
+2021-10-29 15:15:13,201 [main] INFO amazonWeb - Clicked on SAVE button inside Change Language Settings Page
+2021-10-29 15:15:16,214 [main] INFO amazonWeb - Test Case status : PASSED
+2021-10-29 15:27:40,535 [main] INFO amazonWeb - URL is opened
+2021-10-29 15:27:45,995 [main] INFO amazonWeb - Page Language is changed
+2021-10-29 15:27:46,044 [main] INFO amazonWeb - Test Case status : PASSED
+2021-10-29 15:28:29,896 [main] INFO amazonWeb - URL is opened
+2021-10-29 15:28:30,875 [main] INFO amazonWeb - Clicked on chage language link inside Landing Page
+2021-10-29 15:28:30,985 [main] INFO amazonWeb - Clicked on HINDI language link inside Change Language Settings Page
+2021-10-29 15:28:35,008 [main] INFO amazonWeb - Clicked on SAVE button inside Change Language Settings Page
+2021-10-29 15:28:35,051 [main] INFO amazonWeb - Test Case status : PASSED
+2021-10-29 15:28:43,241 [main] INFO amazonWeb - URL is opened
+2021-10-29 15:28:46,969 [main] INFO amazonWeb - Page Language is changed
+2021-10-29 15:28:47,013 [main] INFO amazonWeb - Test Case status : PASSED
+2021-10-29 15:28:56,107 [main] INFO amazonWeb - URL is opened
+2021-10-29 15:28:59,888 [main] INFO amazonWeb - Search Category is selected
+2021-10-29 15:29:04,722 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-10-29 15:29:07,735 [main] INFO amazonWeb - Test Case status : PASSED
+2021-10-29 15:29:15,659 [main] INFO amazonWeb - URL is opened
+2021-10-29 15:29:16,590 [main] INFO amazonWeb - Search Category is selected
+2021-10-29 15:29:18,330 [main] INFO amazonWeb - Search Text is entered
+2021-10-29 15:29:24,800 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-29 15:29:27,963 [main] INFO amazonWeb - Verified visisbility of Added to Cart message on screen
+2021-10-29 15:29:27,963 [main] INFO amazonWeb - Test Case Status : PASSED
+2021-10-29 15:29:36,010 [main] INFO amazonWeb - URL is opened
+2021-10-29 15:29:36,860 [main] INFO amazonWeb - Search Category is selected
+2021-10-29 15:29:38,885 [main] INFO amazonWeb - Search Text is entered
+2021-10-29 15:29:45,330 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-29 15:29:48,519 [main] INFO amazonWeb - Verified visisbility of Added to Cart message on screen
+2021-10-29 15:29:53,924 [main] INFO amazonWeb - Verified visisbility of Your Cart is empty message on screen
+2021-10-29 15:29:53,929 [main] INFO amazonWeb - Test Case Status : PASSED
+2021-10-29 16:07:30,404 [main] INFO amazonWeb - URL is opened
+2021-10-29 16:07:33,593 [main] INFO amazonWeb - Clicked on chage language link inside Landing Page
+2021-10-29 16:07:34,353 [main] INFO amazonWeb - Clicked on HINDI language link inside Change Language Settings Page
+2021-10-29 16:07:44,139 [main] INFO amazonWeb - Clicked on SAVE button inside Change Language Settings Page
+2021-10-29 16:07:44,150 [main] INFO amazonWeb - Test Case status : PASSED
+2021-10-29 16:08:05,222 [main] INFO amazonWeb - URL is opened
+2021-10-29 16:08:06,208 [main] INFO amazonWeb - Page Language is changed
+2021-10-29 16:08:06,227 [main] INFO amazonWeb - Test Case status : FAILED
+2021-10-29 16:08:21,093 [main] INFO amazonWeb - URL is opened
+2021-10-29 16:08:38,329 [main] INFO amazonWeb - URL is opened
+2021-10-29 16:08:51,351 [main] INFO amazonWeb - URL is opened
+2021-10-29 16:10:25,255 [main] INFO amazonWeb - URL is opened
+2021-10-29 16:10:26,375 [main] INFO amazonWeb - Clicked on chage language link inside Landing Page
+2021-10-29 16:10:26,518 [main] INFO amazonWeb - Clicked on HINDI language link inside Change Language Settings Page
+2021-10-29 16:10:29,331 [main] INFO amazonWeb - Clicked on SAVE button inside Change Language Settings Page
+2021-10-29 16:10:29,378 [main] INFO amazonWeb - Test Case status : PASSED
+2021-10-29 16:10:35,488 [main] INFO amazonWeb - URL is opened
+2021-10-29 16:10:40,423 [main] INFO amazonWeb - Page Language is changed
+2021-10-29 16:10:40,468 [main] INFO amazonWeb - Test Case status : PASSED
+2021-10-29 16:10:48,280 [main] INFO amazonWeb - URL is opened
+2021-10-29 16:10:52,153 [main] INFO amazonWeb - Search Category is selected
+2021-10-29 16:10:57,088 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-10-29 16:11:00,105 [main] INFO amazonWeb - Test Case status : PASSED
+2021-10-29 16:11:09,228 [main] INFO amazonWeb - URL is opened
+2021-10-29 16:11:10,162 [main] INFO amazonWeb - Search Category is selected
+2021-10-29 16:11:13,518 [main] INFO amazonWeb - Search Text is entered
+2021-10-29 16:11:20,098 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-29 16:11:23,215 [main] INFO amazonWeb - Verified visisbility of Added to Cart message on screen
+2021-10-29 16:11:23,215 [main] INFO amazonWeb - Test Case Status : PASSED
+2021-10-29 16:11:30,753 [main] INFO amazonWeb - URL is opened
+2021-10-29 16:11:31,657 [main] INFO amazonWeb - Search Category is selected
+2021-10-29 16:11:33,593 [main] INFO amazonWeb - Search Text is entered
+2021-10-29 16:11:40,029 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-29 16:11:43,180 [main] INFO amazonWeb - Verified visisbility of Added to Cart message on screen
+2021-10-29 16:11:48,648 [main] INFO amazonWeb - Verified visisbility of Your Cart is empty message on screen
+2021-10-29 16:11:48,654 [main] INFO amazonWeb - Test Case Status : PASSED
+2021-10-29 16:31:07,326 [main] INFO amazonWeb - URL is opened
+2021-10-29 16:31:08,591 [main] INFO amazonWeb - Clicked on chage language link inside Landing Page
+2021-10-29 16:31:08,906 [main] INFO amazonWeb - Clicked on HINDI language link inside Change Language Settings Page
+2021-10-29 16:31:12,291 [main] INFO amazonWeb - Clicked on SAVE button inside Change Language Settings Page
+2021-10-29 16:31:12,304 [main] INFO amazonWeb - Test Case status : PASSED
+2021-10-29 16:31:25,324 [main] INFO amazonWeb - URL is opened
+2021-10-29 16:31:26,644 [main] INFO amazonWeb - Page Language is changed
+2021-10-29 16:31:26,673 [main] INFO amazonWeb - Test Case status : FAILED
+2021-10-29 16:31:38,901 [main] INFO amazonWeb - URL is opened
+2021-10-29 16:31:55,098 [main] INFO amazonWeb - URL is opened
+2021-10-29 16:32:08,778 [main] INFO amazonWeb - URL is opened
+2021-10-30 13:46:17,461 [main] INFO amazonWeb - URL is opened
+2021-10-30 13:46:19,822 [main] INFO amazonWeb - Clicked on chage language link inside Landing Page
+2021-10-30 13:46:20,215 [main] INFO amazonWeb - Clicked on HINDI language link inside Change Language Settings Page
+2021-10-30 13:46:25,903 [main] INFO amazonWeb - Clicked on SAVE button inside Change Language Settings Page
+2021-10-30 13:46:25,912 [main] INFO amazonWeb - Test Case status : PASSED
+2021-10-30 13:46:35,682 [main] INFO amazonWeb - URL is opened
+2021-10-30 13:46:40,991 [main] INFO amazonWeb - Page Language is changed
+2021-10-30 13:46:41,034 [main] INFO amazonWeb - Test Case status : PASSED
+2021-10-30 13:46:50,429 [main] INFO amazonWeb - URL is opened
+2021-10-30 13:46:54,585 [main] INFO amazonWeb - Search Category is selected
+2021-10-30 13:47:00,361 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-10-30 13:47:03,371 [main] INFO amazonWeb - Test Case status : PASSED
+2021-10-30 13:47:13,487 [main] INFO amazonWeb - URL is opened
+2021-10-30 13:47:14,605 [main] INFO amazonWeb - Search Category is selected
+2021-10-30 13:47:16,759 [main] INFO amazonWeb - Search Text is entered
+2021-10-30 13:47:23,713 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-30 13:47:26,871 [main] INFO amazonWeb - Verified visisbility of Added to Cart message on screen
+2021-10-30 13:47:26,871 [main] INFO amazonWeb - Test Case Status : PASSED
+2021-10-30 13:47:36,407 [main] INFO amazonWeb - URL is opened
+2021-10-30 13:47:37,412 [main] INFO amazonWeb - Search Category is selected
+2021-10-30 13:47:39,185 [main] INFO amazonWeb - Search Text is entered
+2021-10-30 13:47:45,646 [main] INFO amazonWeb - Clicked on Add to Cart button
+2021-10-30 13:47:48,722 [main] INFO amazonWeb - Verified visisbility of Added to Cart message on screen
+2021-10-30 13:47:53,705 [main] INFO amazonWeb - Verified visisbility of Your Cart is empty message on screen
+2021-10-30 13:47:53,712 [main] INFO amazonWeb - Test Case Status : PASSED

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Amazon-web-automation-v1]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Amazon Web Test(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.amazon.testCases.TC_RemoveAProductFromCartTest_005">
+        <methods>
+          <include name="setup"/>
+          <include name="removeAProductFromCart"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.amazon.testCases.TC_RemoveAProductFromCartTest_005 -->
+      <class name="com.amazon.testCases.TC_AddAProductToCartTest_004">
+        <methods>
+          <include name="addAProductToCart"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.amazon.testCases.TC_AddAProductToCartTest_004 -->
+      <class name="com.amazon.testCases.TC_SearchAProductTest_003">
+        <methods>
+          <include name="setup"/>
+          <include name="searchAProductTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.amazon.testCases.TC_SearchAProductTest_003 -->
+      <class name="com.amazon.testCases.TC_ChangePageLanguageTest_002">
+        <methods>
+          <include name="landingPageTest"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.amazon.testCases.TC_ChangePageLanguageTest_002 -->
+    </classes>
+  </test> <!-- Amazon Web Test(failed) -->
+</suite> <!-- Failed suite [Amazon-web-automation-v1] -->
