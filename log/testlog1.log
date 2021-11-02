@@ -803,3 +803,753 @@
 2021-10-30 13:47:48,722 [main] INFO amazonWeb - Verified visisbility of Added to Cart message on screen
 2021-10-30 13:47:53,705 [main] INFO amazonWeb - Verified visisbility of Your Cart is empty message on screen
 2021-10-30 13:47:53,712 [main] INFO amazonWeb - Test Case Status : PASSED
+2021-11-01 12:54:34,271 [main] INFO amazonWeb - URL is opened
+2021-11-01 12:54:39,489 [main] INFO amazonWeb - Search Category is selected
+2021-11-01 12:54:46,467 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-11-01 12:54:49,480 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 12:54:49,511 [main] INFO amazonWeb - URL is opened
+2021-11-01 12:54:53,565 [main] INFO amazonWeb - Search Category is selected
+2021-11-01 12:54:58,650 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-11-01 12:55:02,417 [main] INFO amazonWeb - Test Case status : FAILED
+2021-11-01 12:55:02,422 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:16:25,772 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:16:31,202 [main] INFO amazonWeb - Search Category is selected
+2021-11-01 13:16:37,072 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-11-01 13:16:40,084 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:16:43,400 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:16:47,254 [main] INFO amazonWeb - Search Category is selected
+2021-11-01 13:16:54,405 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-11-01 13:16:57,417 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:17:01,884 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:17:05,625 [main] INFO amazonWeb - Search Category is selected
+2021-11-01 13:17:11,251 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-11-01 13:17:14,266 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:17:15,996 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:17:19,715 [main] INFO amazonWeb - Search Category is selected
+2021-11-01 13:17:25,430 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-11-01 13:17:28,444 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:17:30,128 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:17:33,841 [main] INFO amazonWeb - Search Category is selected
+2021-11-01 13:17:38,766 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-11-01 13:17:41,779 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:17:43,752 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:17:47,455 [main] INFO amazonWeb - Search Category is selected
+2021-11-01 13:17:52,470 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-11-01 13:17:55,484 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:17:57,729 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:18:01,474 [main] INFO amazonWeb - Search Category is selected
+2021-11-01 13:18:06,730 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-11-01 13:18:09,745 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:18:11,127 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:18:14,770 [main] INFO amazonWeb - Search Category is selected
+2021-11-01 13:18:19,817 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-11-01 13:18:22,831 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:18:24,540 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:18:28,254 [main] INFO amazonWeb - Search Category is selected
+2021-11-01 13:18:33,874 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-11-01 13:18:36,886 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:18:38,503 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:18:42,162 [main] INFO amazonWeb - Search Category is selected
+2021-11-01 13:18:47,801 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-11-01 13:18:50,812 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:18:52,304 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:18:55,977 [main] INFO amazonWeb - Search Category is selected
+2021-11-01 13:19:00,848 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-11-01 13:19:03,862 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:19:05,746 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:19:09,420 [main] INFO amazonWeb - Search Category is selected
+2021-11-01 13:19:14,638 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-11-01 13:19:17,652 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:19:19,489 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:19:23,190 [main] INFO amazonWeb - Search Category is selected
+2021-11-01 13:19:28,782 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-11-01 13:19:31,797 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:19:33,969 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:19:37,759 [main] INFO amazonWeb - Search Category is selected
+2021-11-01 13:19:44,191 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-11-01 13:19:47,211 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:19:49,121 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:19:52,843 [main] INFO amazonWeb - Search Category is selected
+2021-11-01 13:19:58,029 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-11-01 13:20:01,046 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:20:02,720 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:20:06,423 [main] INFO amazonWeb - Search Category is selected
+2021-11-01 13:20:11,634 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-11-01 13:20:14,650 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:20:16,632 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:20:20,305 [main] INFO amazonWeb - Search Category is selected
+2021-11-01 13:20:25,402 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-11-01 13:20:28,417 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:20:30,127 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:20:33,793 [main] INFO amazonWeb - Search Category is selected
+2021-11-01 13:20:39,292 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-11-01 13:20:42,305 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:20:43,741 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:20:47,414 [main] INFO amazonWeb - Search Category is selected
+2021-11-01 13:20:52,455 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-11-01 13:20:55,467 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:20:56,987 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:21:00,673 [main] INFO amazonWeb - Search Category is selected
+2021-11-01 13:21:17,067 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-11-01 13:21:20,078 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:21:21,769 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:21:25,445 [main] INFO amazonWeb - Search Category is selected
+2021-11-01 13:21:30,705 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-11-01 13:21:33,720 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:21:36,322 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:21:40,178 [main] INFO amazonWeb - Search Category is selected
+2021-11-01 13:21:46,298 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-11-01 13:21:49,311 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:21:50,707 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:21:54,393 [main] INFO amazonWeb - Search Category is selected
+2021-11-01 13:21:59,758 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-11-01 13:22:02,773 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:22:04,627 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:22:08,311 [main] INFO amazonWeb - Search Category is selected
+2021-11-01 13:22:14,201 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-11-01 13:22:17,216 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:22:18,768 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:22:22,448 [main] INFO amazonWeb - Search Category is selected
+2021-11-01 13:22:27,874 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-11-01 13:22:30,886 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:22:32,248 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:22:35,947 [main] INFO amazonWeb - Search Category is selected
+2021-11-01 13:22:40,887 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-11-01 13:22:43,899 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:22:45,316 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:22:48,987 [main] INFO amazonWeb - Search Category is selected
+2021-11-01 13:22:54,602 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-11-01 13:22:57,616 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:22:58,939 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:23:02,603 [main] INFO amazonWeb - Search Category is selected
+2021-11-01 13:23:07,553 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-11-01 13:23:10,569 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:23:11,919 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:23:15,583 [main] INFO amazonWeb - Search Category is selected
+2021-11-01 13:23:22,002 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-11-01 13:23:25,013 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:23:26,548 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:23:30,199 [main] INFO amazonWeb - Search Category is selected
+2021-11-01 13:23:35,631 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-11-01 13:23:38,642 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:23:40,217 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:23:43,881 [main] INFO amazonWeb - Search Category is selected
+2021-11-01 13:23:48,885 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-11-01 13:23:51,893 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:23:53,184 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:23:56,832 [main] INFO amazonWeb - Search Category is selected
+2021-11-01 13:24:02,364 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-11-01 13:24:05,374 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:24:06,924 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:24:10,602 [main] INFO amazonWeb - Search Category is selected
+2021-11-01 13:24:15,648 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-11-01 13:24:18,661 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:24:20,347 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:24:24,020 [main] INFO amazonWeb - Search Category is selected
+2021-11-01 13:24:29,410 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-11-01 13:24:32,423 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:24:34,001 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:24:37,690 [main] INFO amazonWeb - Search Category is selected
+2021-11-01 13:24:43,283 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-11-01 13:24:46,295 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:24:47,678 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:24:51,359 [main] INFO amazonWeb - Search Category is selected
+2021-11-01 13:24:58,370 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-11-01 13:25:01,383 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:25:02,933 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:25:06,580 [main] INFO amazonWeb - Search Category is selected
+2021-11-01 13:25:12,259 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-11-01 13:25:15,271 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:25:16,562 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:25:20,182 [main] INFO amazonWeb - Search Category is selected
+2021-11-01 13:25:25,562 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-11-01 13:25:28,572 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:25:29,918 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:25:33,550 [main] INFO amazonWeb - Search Category is selected
+2021-11-01 13:25:40,281 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-11-01 13:25:43,296 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:25:44,773 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:25:48,452 [main] INFO amazonWeb - Search Category is selected
+2021-11-01 13:25:54,823 [main] INFO amazonWeb - Search Text is entered and ENTER key is pressed
+2021-11-01 13:25:57,833 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:34:57,606 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:35:02,161 [main] INFO amazonWeb - Search Category 'all categories' is selected
+2021-11-01 13:35:22,355 [main] INFO amazonWeb - Search Text 'iphone 11' is entered and ENTER key is pressed
+2021-11-01 13:35:25,367 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:35:27,606 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-01 13:35:27,627 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:35:31,497 [main] INFO amazonWeb - Search Category 'deals' is selected
+2021-11-01 13:35:36,256 [main] INFO amazonWeb - Search Text 'monitor' is entered and ENTER key is pressed
+2021-11-01 13:35:39,267 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:35:41,611 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-01 13:35:41,616 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:35:45,510 [main] INFO amazonWeb - Search Category 'amazon devices' is selected
+2021-11-01 13:35:50,340 [main] INFO amazonWeb - Search Text 'echo dot' is entered and ENTER key is pressed
+2021-11-01 13:35:53,357 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:35:54,659 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-01 13:35:54,663 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:35:58,372 [main] INFO amazonWeb - Search Category 'amazon fashion' is selected
+2021-11-01 13:36:04,410 [main] INFO amazonWeb - Search Text 'designer saree' is entered and ENTER key is pressed
+2021-11-01 13:36:07,423 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:36:09,536 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-01 13:36:09,540 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:36:13,380 [main] INFO amazonWeb - Search Category 'amazon fresh' is selected
+2021-11-01 13:36:18,149 [main] INFO amazonWeb - Search Text 'organic vegetables' is entered and ENTER key is pressed
+2021-11-01 13:36:21,163 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:36:22,935 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-01 13:36:22,939 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:36:26,662 [main] INFO amazonWeb - Search Category 'amazon pantry' is selected
+2021-11-01 13:36:31,840 [main] INFO amazonWeb - Search Text 'colander' is entered and ENTER key is pressed
+2021-11-01 13:36:34,854 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:36:36,410 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-01 13:36:36,414 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:36:40,146 [main] INFO amazonWeb - Search Category 'appliances' is selected
+2021-11-01 13:36:45,375 [main] INFO amazonWeb - Search Text 'refrigerator' is entered and ENTER key is pressed
+2021-11-01 13:36:48,391 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:36:50,105 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-01 13:36:50,108 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:36:53,740 [main] INFO amazonWeb - Search Category 'apps and games' is selected
+2021-11-01 13:36:58,755 [main] INFO amazonWeb - Search Text 'asphalt 8' is entered and ENTER key is pressed
+2021-11-01 13:37:01,771 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:37:03,491 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-01 13:37:03,494 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:37:07,211 [main] INFO amazonWeb - Search Category 'baby' is selected
+2021-11-01 13:37:13,065 [main] INFO amazonWeb - Search Text 'diaper' is entered and ENTER key is pressed
+2021-11-01 13:37:16,078 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:37:17,574 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-01 13:37:17,578 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:37:21,264 [main] INFO amazonWeb - Search Category 'beauty' is selected
+2021-11-01 13:37:26,697 [main] INFO amazonWeb - Search Text 'lipstick' is entered and ENTER key is pressed
+2021-11-01 13:37:29,712 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:37:31,065 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-01 13:37:31,069 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:37:34,776 [main] INFO amazonWeb - Search Category 'books' is selected
+2021-11-01 13:37:39,884 [main] INFO amazonWeb - Search Text 'sapiens' is entered and ENTER key is pressed
+2021-11-01 13:37:42,896 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:37:44,473 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-01 13:37:44,477 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:37:48,210 [main] INFO amazonWeb - Search Category 'car & motorbike' is selected
+2021-11-01 13:37:55,427 [main] INFO amazonWeb - Search Text 'coolant' is entered and ENTER key is pressed
+2021-11-01 13:37:58,436 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:38:00,657 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-01 13:38:00,661 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:38:04,400 [main] INFO amazonWeb - Search Category 'clothing & accessories' is selected
+2021-11-01 13:38:11,130 [main] INFO amazonWeb - Search Text 'belt for men' is entered and ENTER key is pressed
+2021-11-01 13:38:14,140 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:38:15,742 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-01 13:38:15,745 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:38:19,451 [main] INFO amazonWeb - Search Category 'electronics' is selected
+2021-11-01 13:38:26,099 [main] INFO amazonWeb - Search Text 'smart bulb' is entered and ENTER key is pressed
+2021-11-01 13:38:29,110 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:38:30,753 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-01 13:38:30,757 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:38:34,472 [main] INFO amazonWeb - Search Category 'furniture' is selected
+2021-11-01 13:38:39,628 [main] INFO amazonWeb - Search Text 'sofa' is entered and ENTER key is pressed
+2021-11-01 13:38:42,644 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:38:46,060 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-01 13:38:46,064 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:38:49,913 [main] INFO amazonWeb - Search Category 'garden & outdoors' is selected
+2021-11-01 13:39:15,375 [main] INFO amazonWeb - Search Text 'sprinkler' is entered and ENTER key is pressed
+2021-11-01 13:39:18,388 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:39:48,667 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:39:52,345 [main] INFO amazonWeb - Search Category 'gift cards' is selected
+2021-11-01 13:40:19,146 [main] INFO amazonWeb - Search Text 'amazon pay egift card' is entered and ENTER key is pressed
+2021-11-01 13:40:22,157 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:40:50,743 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-01 13:40:50,746 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:40:54,442 [main] INFO amazonWeb - Search Category 'grocery & gourmet foods' is selected
+2021-11-01 13:41:17,673 [main] INFO amazonWeb - Search Text 'tuna' is entered and ENTER key is pressed
+2021-11-01 13:41:20,687 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:41:22,910 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-01 13:41:22,914 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:41:26,599 [main] INFO amazonWeb - Search Category 'health & personal care' is selected
+2021-11-01 13:41:32,426 [main] INFO amazonWeb - Search Text 'green tea' is entered and ENTER key is pressed
+2021-11-01 13:41:35,440 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-01 13:41:37,476 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-01 13:41:37,479 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:41:41,200 [main] INFO amazonWeb - Search Category 'home & kitchen' is selected
+2021-11-01 13:42:14,302 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:42:17,921 [main] INFO amazonWeb - Search Category 'industrial & scientific' is selected
+2021-11-01 13:42:51,060 [main] INFO amazonWeb - URL is opened
+2021-11-01 13:42:54,436 [main] INFO amazonWeb - Search Category 'jewellery' is selected
+2021-11-01 13:43:27,526 [main] INFO amazonWeb - URL is opened
+2021-11-02 08:54:33,682 [main] INFO amazonWeb - URL is opened
+2021-11-02 08:54:37,566 [main] INFO amazonWeb - Search Category 'all categories' is selected
+2021-11-02 08:54:42,642 [main] INFO amazonWeb - Search Text 'iphone 11' is entered and ENTER key is pressed
+2021-11-02 08:54:45,655 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 08:54:47,332 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-02 08:54:50,347 [main] INFO amazonWeb - URL is opened
+2021-11-02 08:54:54,100 [main] INFO amazonWeb - Search Category 'deals' is selected
+2021-11-02 08:54:58,771 [main] INFO amazonWeb - Search Text 'monitor' is entered and ENTER key is pressed
+2021-11-02 08:55:01,782 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 08:55:04,375 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-02 08:55:07,378 [main] INFO amazonWeb - URL is opened
+2021-11-02 08:55:11,147 [main] INFO amazonWeb - Search Category 'amazon devices' is selected
+2021-11-02 08:55:15,856 [main] INFO amazonWeb - Search Text 'echo dot' is entered and ENTER key is pressed
+2021-11-02 08:55:18,872 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 08:55:20,512 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-02 08:55:23,516 [main] INFO amazonWeb - URL is opened
+2021-11-02 08:55:27,294 [main] INFO amazonWeb - Search Category 'amazon fashion' is selected
+2021-11-02 08:55:33,462 [main] INFO amazonWeb - Search Text 'designer saree' is entered and ENTER key is pressed
+2021-11-02 08:55:36,474 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 08:55:38,285 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-02 08:55:41,290 [main] INFO amazonWeb - URL is opened
+2021-11-02 08:55:45,060 [main] INFO amazonWeb - Search Category 'amazon fresh' is selected
+2021-11-02 08:55:50,075 [main] INFO amazonWeb - Search Text 'organic vegetables' is entered and ENTER key is pressed
+2021-11-02 08:55:53,086 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 08:55:54,773 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-02 08:55:57,775 [main] INFO amazonWeb - URL is opened
+2021-11-02 08:56:01,544 [main] INFO amazonWeb - Search Category 'amazon pantry' is selected
+2021-11-02 08:56:07,576 [main] INFO amazonWeb - Search Text 'colander' is entered and ENTER key is pressed
+2021-11-02 08:56:10,588 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 08:56:12,300 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-02 08:56:15,304 [main] INFO amazonWeb - URL is opened
+2021-11-02 08:56:19,064 [main] INFO amazonWeb - Search Category 'appliances' is selected
+2021-11-02 08:56:24,591 [main] INFO amazonWeb - Search Text 'refrigerator' is entered and ENTER key is pressed
+2021-11-02 08:56:27,603 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 08:56:29,377 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-02 08:56:32,381 [main] INFO amazonWeb - URL is opened
+2021-11-02 08:56:36,021 [main] INFO amazonWeb - Search Category 'apps and games' is selected
+2021-11-02 08:56:41,889 [main] INFO amazonWeb - Search Text 'asphalt 8' is entered and ENTER key is pressed
+2021-11-02 08:56:44,902 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 08:56:46,802 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-02 08:56:49,804 [main] INFO amazonWeb - URL is opened
+2021-11-02 08:56:53,553 [main] INFO amazonWeb - Search Category 'baby' is selected
+2021-11-02 08:56:58,760 [main] INFO amazonWeb - Search Text 'diaper' is entered and ENTER key is pressed
+2021-11-02 08:57:01,774 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 08:57:03,405 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-02 08:57:06,407 [main] INFO amazonWeb - URL is opened
+2021-11-02 08:57:10,171 [main] INFO amazonWeb - Search Category 'beauty' is selected
+2021-11-02 08:57:15,358 [main] INFO amazonWeb - Search Text 'lipstick' is entered and ENTER key is pressed
+2021-11-02 08:57:18,371 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 08:57:20,038 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-02 08:57:23,040 [main] INFO amazonWeb - URL is opened
+2021-11-02 08:57:26,812 [main] INFO amazonWeb - Search Category 'books' is selected
+2021-11-02 08:57:32,386 [main] INFO amazonWeb - Search Text 'sapiens' is entered and ENTER key is pressed
+2021-11-02 08:57:35,397 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 08:57:37,227 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-02 08:57:40,230 [main] INFO amazonWeb - URL is opened
+2021-11-02 08:57:44,005 [main] INFO amazonWeb - Search Category 'car & motorbike' is selected
+2021-11-02 08:57:49,088 [main] INFO amazonWeb - Search Text 'coolant' is entered and ENTER key is pressed
+2021-11-02 08:57:52,103 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 08:57:53,473 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-02 08:57:56,475 [main] INFO amazonWeb - URL is opened
+2021-11-02 08:58:00,221 [main] INFO amazonWeb - Search Category 'clothing & accessories' is selected
+2021-11-02 08:58:05,826 [main] INFO amazonWeb - Search Text 'belt for men' is entered and ENTER key is pressed
+2021-11-02 08:58:08,844 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 08:58:10,439 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-02 08:58:13,443 [main] INFO amazonWeb - URL is opened
+2021-11-02 08:58:17,207 [main] INFO amazonWeb - Search Category 'electronics' is selected
+2021-11-02 08:58:23,506 [main] INFO amazonWeb - Search Text 'LED bulb' is entered and ENTER key is pressed
+2021-11-02 08:58:26,522 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 08:58:28,177 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-02 08:58:31,180 [main] INFO amazonWeb - URL is opened
+2021-11-02 08:58:34,947 [main] INFO amazonWeb - Search Category 'furniture' is selected
+2021-11-02 08:58:40,112 [main] INFO amazonWeb - Search Text 'sofa' is entered and ENTER key is pressed
+2021-11-02 08:58:43,130 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 08:58:44,527 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-02 08:58:47,530 [main] INFO amazonWeb - URL is opened
+2021-11-02 08:58:51,258 [main] INFO amazonWeb - Search Category 'garden & outdoors' is selected
+2021-11-02 08:58:56,297 [main] INFO amazonWeb - Search Text 'sprinkler' is entered and ENTER key is pressed
+2021-11-02 08:58:59,312 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 08:59:00,669 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-02 08:59:03,671 [main] INFO amazonWeb - URL is opened
+2021-11-02 08:59:07,452 [main] INFO amazonWeb - Search Category 'gift cards' is selected
+2021-11-02 08:59:12,529 [main] INFO amazonWeb - Search Text 'amazon pay egift card' is entered and ENTER key is pressed
+2021-11-02 08:59:15,545 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 08:59:17,080 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-02 08:59:20,083 [main] INFO amazonWeb - URL is opened
+2021-11-02 08:59:23,819 [main] INFO amazonWeb - Search Category 'grocery & gourmet foods' is selected
+2021-11-02 08:59:29,842 [main] INFO amazonWeb - Search Text 'tuna' is entered and ENTER key is pressed
+2021-11-02 08:59:32,853 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 08:59:34,428 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-02 08:59:37,433 [main] INFO amazonWeb - URL is opened
+2021-11-02 08:59:41,210 [main] INFO amazonWeb - Search Category 'health & personal care' is selected
+2021-11-02 08:59:46,180 [main] INFO amazonWeb - Search Text 'green tea' is entered and ENTER key is pressed
+2021-11-02 08:59:49,190 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 08:59:51,214 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-02 08:59:54,217 [main] INFO amazonWeb - URL is opened
+2021-11-02 08:59:57,984 [main] INFO amazonWeb - Search Category 'home & kitchen' is selected
+2021-11-02 09:00:03,719 [main] INFO amazonWeb - Search Text 'cutlery set' is entered and ENTER key is pressed
+2021-11-02 09:00:06,731 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:00:08,276 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-02 09:00:11,277 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:00:14,997 [main] INFO amazonWeb - Search Category 'industrial & scientific' is selected
+2021-11-02 09:00:20,044 [main] INFO amazonWeb - Search Text 'micrometer' is entered and ENTER key is pressed
+2021-11-02 09:00:23,062 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:00:24,681 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-02 09:00:27,685 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:00:31,449 [main] INFO amazonWeb - Search Category 'jewellery' is selected
+2021-11-02 09:00:36,825 [main] INFO amazonWeb - Search Text 'earrings' is entered and ENTER key is pressed
+2021-11-02 09:00:39,839 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:00:41,736 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-02 09:00:44,739 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:00:48,495 [main] INFO amazonWeb - Search Category 'kindle store' is selected
+2021-11-02 09:00:53,437 [main] INFO amazonWeb - Search Text 'ebooks' is entered and ENTER key is pressed
+2021-11-02 09:00:56,461 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:00:57,844 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-02 09:01:00,847 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:01:04,603 [main] INFO amazonWeb - Search Category 'luggage & bags' is selected
+2021-11-02 09:01:11,061 [main] INFO amazonWeb - Search Text 'travel bag' is entered and ENTER key is pressed
+2021-11-02 09:01:14,074 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:01:15,813 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-02 09:01:18,816 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:01:22,576 [main] INFO amazonWeb - Search Category 'luxury beauty' is selected
+2021-11-02 09:01:28,936 [main] INFO amazonWeb - Search Text 'makeup kit' is entered and ENTER key is pressed
+2021-11-02 09:01:31,947 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:01:33,715 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-02 09:01:36,718 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:01:40,481 [main] INFO amazonWeb - Search Category 'movies & tv shows' is selected
+2021-11-02 09:01:45,266 [main] INFO amazonWeb - Search Text 'black hawk down' is entered and ENTER key is pressed
+2021-11-02 09:01:48,280 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:01:49,865 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-02 09:01:52,868 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:01:56,620 [main] INFO amazonWeb - Search Category 'music' is selected
+2021-11-02 09:02:01,587 [main] INFO amazonWeb - Search Text 'owl city' is entered and ENTER key is pressed
+2021-11-02 09:02:04,601 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:02:05,964 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-02 09:02:08,966 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:02:12,694 [main] INFO amazonWeb - Search Category 'musical instruments' is selected
+2021-11-02 09:02:18,741 [main] INFO amazonWeb - Search Text 'guitar' is entered and ENTER key is pressed
+2021-11-02 09:02:21,754 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:02:23,472 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-02 09:02:26,475 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:02:30,225 [main] INFO amazonWeb - Search Category 'office products' is selected
+2021-11-02 09:02:35,710 [main] INFO amazonWeb - Search Text 'shredder' is entered and ENTER key is pressed
+2021-11-02 09:02:38,722 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:02:40,054 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-02 09:02:43,057 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:02:46,754 [main] INFO amazonWeb - Search Category 'pet supplies' is selected
+2021-11-02 09:02:51,844 [main] INFO amazonWeb - Search Text 'pedigree' is entered and ENTER key is pressed
+2021-11-02 09:02:54,859 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:02:56,206 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-02 09:02:59,210 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:03:02,942 [main] INFO amazonWeb - Search Category 'prime video' is selected
+2021-11-02 09:03:07,878 [main] INFO amazonWeb - Search Text 'the family man' is entered and ENTER key is pressed
+2021-11-02 09:03:10,886 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:03:12,672 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-02 09:03:15,675 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:03:19,432 [main] INFO amazonWeb - Search Category 'shoes & handbags' is selected
+2021-11-02 09:03:24,604 [main] INFO amazonWeb - Search Text 'nike jordan' is entered and ENTER key is pressed
+2021-11-02 09:03:27,619 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:03:28,938 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-02 09:03:31,942 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:03:35,699 [main] INFO amazonWeb - Search Category 'software' is selected
+2021-11-02 09:03:40,731 [main] INFO amazonWeb - Search Text 'windows 10' is entered and ENTER key is pressed
+2021-11-02 09:03:43,742 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:03:45,553 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-02 09:03:48,556 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:03:52,246 [main] INFO amazonWeb - Search Category 'sports, fitness & outdoors' is selected
+2021-11-02 09:03:57,711 [main] INFO amazonWeb - Search Text 'track suit' is entered and ENTER key is pressed
+2021-11-02 09:04:00,725 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:04:02,079 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-02 09:04:05,082 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:04:08,775 [main] INFO amazonWeb - Search Category 'tools & home improvement' is selected
+2021-11-02 09:04:13,926 [main] INFO amazonWeb - Search Text 'tool kit' is entered and ENTER key is pressed
+2021-11-02 09:04:16,937 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:04:18,468 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-02 09:04:21,472 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:04:25,161 [main] INFO amazonWeb - Search Category 'toys & games' is selected
+2021-11-02 09:04:30,512 [main] INFO amazonWeb - Search Text 'jigsaw puzzles' is entered and ENTER key is pressed
+2021-11-02 09:04:33,528 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:04:35,083 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-02 09:04:38,084 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:04:41,782 [main] INFO amazonWeb - Search Category 'under ?500' is selected
+2021-11-02 09:04:47,879 [main] INFO amazonWeb - Search Text 'tshirts' is entered and ENTER key is pressed
+2021-11-02 09:04:50,890 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:04:52,566 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-02 09:04:55,569 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:04:59,279 [main] INFO amazonWeb - Search Category 'video games' is selected
+2021-11-02 09:05:04,043 [main] INFO amazonWeb - Search Text 'contra' is entered and ENTER key is pressed
+2021-11-02 09:05:07,064 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:05:08,475 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-02 09:05:11,478 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:05:15,137 [main] INFO amazonWeb - Search Category 'watches' is selected
+2021-11-02 09:05:22,018 [main] INFO amazonWeb - Search Text 'fossil' is entered and ENTER key is pressed
+2021-11-02 09:05:25,029 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:05:26,687 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-02 09:05:29,690 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:05:33,383 [main] INFO amazonWeb - Search Category 'alexa skills' is selected
+2021-11-02 09:05:38,241 [main] INFO amazonWeb - Search Text 'buddha speaks' is entered and ENTER key is pressed
+2021-11-02 09:05:41,253 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:05:42,629 [main] INFO amazonWeb - Clicked on Amazon home link
+2021-11-02 09:11:05,026 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:11:08,881 [main] INFO amazonWeb - Search Category 'all categories' is selected
+2021-11-02 09:11:13,922 [main] INFO amazonWeb - Search Text 'iphone 11' is entered and ENTER key is pressed
+2021-11-02 09:11:16,937 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:11:18,636 [main] INFO amazonWeb - Clicked on Amazon home link 
+
+
+2021-11-02 09:11:21,649 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:11:25,395 [main] INFO amazonWeb - Search Category 'deals' is selected
+2021-11-02 09:11:30,242 [main] INFO amazonWeb - Search Text 'monitor' is entered and ENTER key is pressed
+2021-11-02 09:11:33,254 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:11:35,186 [main] INFO amazonWeb - Clicked on Amazon home link 
+
+
+2021-11-02 09:11:38,190 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:11:41,909 [main] INFO amazonWeb - Search Category 'amazon devices' is selected
+2021-11-02 09:11:46,775 [main] INFO amazonWeb - Search Text 'echo dot' is entered and ENTER key is pressed
+2021-11-02 09:11:49,788 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:11:51,129 [main] INFO amazonWeb - Clicked on Amazon home link 
+
+
+2021-11-02 09:11:54,132 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:11:57,839 [main] INFO amazonWeb - Search Category 'amazon fashion' is selected
+2021-11-02 09:12:03,777 [main] INFO amazonWeb - Search Text 'designer saree' is entered and ENTER key is pressed
+2021-11-02 09:12:06,791 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:12:08,419 [main] INFO amazonWeb - Clicked on Amazon home link 
+
+
+2021-11-02 09:12:11,423 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:12:15,131 [main] INFO amazonWeb - Search Category 'amazon fresh' is selected
+2021-11-02 09:12:19,917 [main] INFO amazonWeb - Search Text 'organic vegetables' is entered and ENTER key is pressed
+2021-11-02 09:12:22,930 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:12:24,639 [main] INFO amazonWeb - Clicked on Amazon home link 
+
+
+2021-11-02 09:12:27,644 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:12:31,379 [main] INFO amazonWeb - Search Category 'amazon pantry' is selected
+2021-11-02 09:12:36,670 [main] INFO amazonWeb - Search Text 'colander' is entered and ENTER key is pressed
+2021-11-02 09:12:39,683 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:12:41,087 [main] INFO amazonWeb - Clicked on Amazon home link 
+
+
+2021-11-02 09:12:44,090 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:12:47,825 [main] INFO amazonWeb - Search Category 'appliances' is selected
+2021-11-02 09:12:53,128 [main] INFO amazonWeb - Search Text 'refrigerator' is entered and ENTER key is pressed
+2021-11-02 09:12:56,140 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:12:57,595 [main] INFO amazonWeb - Clicked on Amazon home link 
+
+
+2021-11-02 09:13:00,598 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:13:04,259 [main] INFO amazonWeb - Search Category 'apps and games' is selected
+2021-11-02 09:13:09,308 [main] INFO amazonWeb - Search Text 'spotify' is entered and ENTER key is pressed
+2021-11-02 09:13:12,321 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:13:13,785 [main] INFO amazonWeb - Clicked on Amazon home link 
+
+
+2021-11-02 09:13:16,788 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:13:20,491 [main] INFO amazonWeb - Search Category 'baby' is selected
+2021-11-02 09:13:25,847 [main] INFO amazonWeb - Search Text 'diaper' is entered and ENTER key is pressed
+2021-11-02 09:13:28,860 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:13:30,128 [main] INFO amazonWeb - Clicked on Amazon home link 
+
+
+2021-11-02 09:13:33,130 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:13:36,840 [main] INFO amazonWeb - Search Category 'beauty' is selected
+2021-11-02 09:13:42,234 [main] INFO amazonWeb - Search Text 'lipstick' is entered and ENTER key is pressed
+2021-11-02 09:13:45,246 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:13:46,859 [main] INFO amazonWeb - Clicked on Amazon home link 
+
+
+2021-11-02 09:13:49,861 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:13:53,564 [main] INFO amazonWeb - Search Category 'books' is selected
+2021-11-02 09:13:59,030 [main] INFO amazonWeb - Search Text 'sapiens' is entered and ENTER key is pressed
+2021-11-02 09:14:02,042 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:14:03,602 [main] INFO amazonWeb - Clicked on Amazon home link 
+
+
+2021-11-02 09:14:06,604 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:14:10,343 [main] INFO amazonWeb - Search Category 'car & motorbike' is selected
+2021-11-02 09:14:15,847 [main] INFO amazonWeb - Search Text 'coolant' is entered and ENTER key is pressed
+2021-11-02 09:14:18,860 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:14:20,108 [main] INFO amazonWeb - Clicked on Amazon home link 
+
+
+2021-11-02 09:14:23,112 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:14:26,838 [main] INFO amazonWeb - Search Category 'clothing & accessories' is selected
+2021-11-02 09:14:32,388 [main] INFO amazonWeb - Search Text 'belt for men' is entered and ENTER key is pressed
+2021-11-02 09:14:35,406 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:14:37,021 [main] INFO amazonWeb - Clicked on Amazon home link 
+
+
+2021-11-02 09:14:40,023 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:14:43,767 [main] INFO amazonWeb - Search Category 'electronics' is selected
+2021-11-02 09:14:50,135 [main] INFO amazonWeb - Search Text 'LED bulb' is entered and ENTER key is pressed
+2021-11-02 09:14:53,151 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:14:54,583 [main] INFO amazonWeb - Clicked on Amazon home link 
+
+
+2021-11-02 09:14:57,586 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:15:01,357 [main] INFO amazonWeb - Search Category 'furniture' is selected
+2021-11-02 09:15:06,724 [main] INFO amazonWeb - Search Text 'sofa' is entered and ENTER key is pressed
+2021-11-02 09:15:09,738 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:15:11,149 [main] INFO amazonWeb - Clicked on Amazon home link 
+
+
+2021-11-02 09:15:14,153 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:15:17,877 [main] INFO amazonWeb - Search Category 'garden & outdoors' is selected
+2021-11-02 09:15:23,033 [main] INFO amazonWeb - Search Text 'sprinkler' is entered and ENTER key is pressed
+2021-11-02 09:15:26,047 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:15:27,285 [main] INFO amazonWeb - Clicked on Amazon home link 
+
+
+2021-11-02 09:15:30,288 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:15:33,966 [main] INFO amazonWeb - Search Category 'gift cards' is selected
+2021-11-02 09:15:39,061 [main] INFO amazonWeb - Search Text 'amazon pay egift card' is entered and ENTER key is pressed
+2021-11-02 09:15:42,075 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:15:43,456 [main] INFO amazonWeb - Clicked on Amazon home link 
+
+
+2021-11-02 09:15:46,458 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:15:50,194 [main] INFO amazonWeb - Search Category 'grocery & gourmet foods' is selected
+2021-11-02 09:15:55,675 [main] INFO amazonWeb - Search Text 'tuna' is entered and ENTER key is pressed
+2021-11-02 09:15:58,687 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:16:00,117 [main] INFO amazonWeb - Clicked on Amazon home link 
+
+
+2021-11-02 09:16:03,120 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:16:06,847 [main] INFO amazonWeb - Search Category 'health & personal care' is selected
+2021-11-02 09:16:11,919 [main] INFO amazonWeb - Search Text 'green tea' is entered and ENTER key is pressed
+2021-11-02 09:16:14,930 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:16:16,598 [main] INFO amazonWeb - Clicked on Amazon home link 
+
+
+2021-11-02 09:16:19,603 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:16:23,286 [main] INFO amazonWeb - Search Category 'home & kitchen' is selected
+2021-11-02 09:16:28,440 [main] INFO amazonWeb - Search Text 'cutlery set' is entered and ENTER key is pressed
+2021-11-02 09:16:31,455 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:16:32,784 [main] INFO amazonWeb - Clicked on Amazon home link 
+
+
+2021-11-02 09:16:35,786 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:16:39,468 [main] INFO amazonWeb - Search Category 'industrial & scientific' is selected
+2021-11-02 09:16:44,803 [main] INFO amazonWeb - Search Text 'micrometer' is entered and ENTER key is pressed
+2021-11-02 09:16:47,817 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:16:49,149 [main] INFO amazonWeb - Clicked on Amazon home link 
+
+
+2021-11-02 09:16:52,152 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:16:55,861 [main] INFO amazonWeb - Search Category 'jewellery' is selected
+2021-11-02 09:17:02,018 [main] INFO amazonWeb - Search Text 'earrings' is entered and ENTER key is pressed
+2021-11-02 09:17:05,029 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:17:06,273 [main] INFO amazonWeb - Clicked on Amazon home link 
+
+
+2021-11-02 09:17:09,276 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:17:12,956 [main] INFO amazonWeb - Search Category 'kindle store' is selected
+2021-11-02 09:17:20,261 [main] INFO amazonWeb - Search Text 'ebooks' is entered and ENTER key is pressed
+2021-11-02 09:17:23,277 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:17:24,961 [main] INFO amazonWeb - Clicked on Amazon home link 
+
+
+2021-11-02 09:17:27,964 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:17:31,702 [main] INFO amazonWeb - Search Category 'luggage & bags' is selected
+2021-11-02 09:17:38,821 [main] INFO amazonWeb - Search Text 'travel bag' is entered and ENTER key is pressed
+2021-11-02 09:17:41,837 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:17:43,533 [main] INFO amazonWeb - Clicked on Amazon home link 
+
+
+2021-11-02 09:17:46,536 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:17:50,277 [main] INFO amazonWeb - Search Category 'luxury beauty' is selected
+2021-11-02 09:17:57,304 [main] INFO amazonWeb - Search Text 'makeup kit' is entered and ENTER key is pressed
+2021-11-02 09:18:00,317 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:18:01,685 [main] INFO amazonWeb - Clicked on Amazon home link 
+
+
+2021-11-02 09:18:04,688 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:18:08,408 [main] INFO amazonWeb - Search Category 'movies & tv shows' is selected
+2021-11-02 09:18:13,713 [main] INFO amazonWeb - Search Text 'black hawk down' is entered and ENTER key is pressed
+2021-11-02 09:18:16,727 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:18:18,261 [main] INFO amazonWeb - Clicked on Amazon home link 
+
+
+2021-11-02 09:18:21,263 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:18:24,954 [main] INFO amazonWeb - Search Category 'music' is selected
+2021-11-02 09:18:30,217 [main] INFO amazonWeb - Search Text 'owl city' is entered and ENTER key is pressed
+2021-11-02 09:18:33,230 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:18:34,820 [main] INFO amazonWeb - Clicked on Amazon home link 
+
+
+2021-11-02 09:18:37,821 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:18:41,514 [main] INFO amazonWeb - Search Category 'musical instruments' is selected
+2021-11-02 09:18:46,888 [main] INFO amazonWeb - Search Text 'guitar' is entered and ENTER key is pressed
+2021-11-02 09:18:49,903 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:18:51,286 [main] INFO amazonWeb - Clicked on Amazon home link 
+
+
+2021-11-02 09:18:54,290 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:18:57,982 [main] INFO amazonWeb - Search Category 'office products' is selected
+2021-11-02 09:19:03,070 [main] INFO amazonWeb - Search Text 'shredder' is entered and ENTER key is pressed
+2021-11-02 09:19:06,081 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:19:07,443 [main] INFO amazonWeb - Clicked on Amazon home link 
+
+
+2021-11-02 09:19:10,445 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:19:14,154 [main] INFO amazonWeb - Search Category 'pet supplies' is selected
+2021-11-02 09:19:19,306 [main] INFO amazonWeb - Search Text 'pedigree' is entered and ENTER key is pressed
+2021-11-02 09:19:22,319 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:19:23,677 [main] INFO amazonWeb - Clicked on Amazon home link 
+
+
+2021-11-02 09:19:26,679 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:19:30,373 [main] INFO amazonWeb - Search Category 'prime video' is selected
+2021-11-02 09:19:35,363 [main] INFO amazonWeb - Search Text 'the family man' is entered and ENTER key is pressed
+2021-11-02 09:19:38,371 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:19:40,045 [main] INFO amazonWeb - Clicked on Amazon home link 
+
+
+2021-11-02 09:19:43,049 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:19:46,739 [main] INFO amazonWeb - Search Category 'shoes & handbags' is selected
+2021-11-02 09:19:51,936 [main] INFO amazonWeb - Search Text 'nike jordan' is entered and ENTER key is pressed
+2021-11-02 09:19:54,951 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:19:56,349 [main] INFO amazonWeb - Clicked on Amazon home link 
+
+
+2021-11-02 09:19:59,352 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:20:03,073 [main] INFO amazonWeb - Search Category 'software' is selected
+2021-11-02 09:20:08,268 [main] INFO amazonWeb - Search Text 'windows 10' is entered and ENTER key is pressed
+2021-11-02 09:20:11,280 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:20:12,421 [main] INFO amazonWeb - Clicked on Amazon home link 
+
+
+2021-11-02 09:20:15,424 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:20:19,097 [main] INFO amazonWeb - Search Category 'sports, fitness & outdoors' is selected
+2021-11-02 09:20:24,720 [main] INFO amazonWeb - Search Text 'track suit' is entered and ENTER key is pressed
+2021-11-02 09:20:27,732 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:20:29,764 [main] INFO amazonWeb - Clicked on Amazon home link 
+
+
+2021-11-02 09:20:32,766 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:20:36,483 [main] INFO amazonWeb - Search Category 'tools & home improvement' is selected
+2021-11-02 09:20:42,317 [main] INFO amazonWeb - Search Text 'tool kit' is entered and ENTER key is pressed
+2021-11-02 09:20:45,340 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:20:46,547 [main] INFO amazonWeb - Clicked on Amazon home link 
+
+
+2021-11-02 09:20:49,548 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:20:53,234 [main] INFO amazonWeb - Search Category 'toys & games' is selected
+2021-11-02 09:20:59,016 [main] INFO amazonWeb - Search Text 'jigsaw puzzles' is entered and ENTER key is pressed
+2021-11-02 09:21:02,028 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:21:03,322 [main] INFO amazonWeb - Clicked on Amazon home link 
+
+
+2021-11-02 09:21:06,325 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:21:09,985 [main] INFO amazonWeb - Search Category 'under ?500' is selected
+2021-11-02 09:21:15,194 [main] INFO amazonWeb - Search Text 'tshirts' is entered and ENTER key is pressed
+2021-11-02 09:21:18,208 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:21:19,307 [main] INFO amazonWeb - Clicked on Amazon home link 
+
+
+2021-11-02 09:21:22,309 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:21:25,982 [main] INFO amazonWeb - Search Category 'video games' is selected
+2021-11-02 09:21:31,198 [main] INFO amazonWeb - Search Text 'contra' is entered and ENTER key is pressed
+2021-11-02 09:21:34,210 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:21:35,625 [main] INFO amazonWeb - Clicked on Amazon home link 
+
+
+2021-11-02 09:21:38,628 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:21:42,263 [main] INFO amazonWeb - Search Category 'watches' is selected
+2021-11-02 09:21:48,566 [main] INFO amazonWeb - Search Text 'fossil' is entered and ENTER key is pressed
+2021-11-02 09:21:51,578 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:21:52,826 [main] INFO amazonWeb - Clicked on Amazon home link 
+
+
+2021-11-02 09:21:55,828 [main] INFO amazonWeb - URL is opened
+2021-11-02 09:21:59,496 [main] INFO amazonWeb - Search Category 'alexa skills' is selected
+2021-11-02 09:22:04,536 [main] INFO amazonWeb - Search Text 'buddha speaks' is entered and ENTER key is pressed
+2021-11-02 09:22:07,546 [main] INFO amazonWeb - Test Case status : PASSED
+2021-11-02 09:22:08,966 [main] INFO amazonWeb - Clicked on Amazon home link 
+
+

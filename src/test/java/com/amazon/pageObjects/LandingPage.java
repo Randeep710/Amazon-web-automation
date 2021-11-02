@@ -25,7 +25,7 @@ public class LandingPage {
 	@FindBy(id="icp-nav-flyout")
 	private WebElement changeLanguageLink;
 	
-	//hindi link
+	//2. Hindi link
 	@FindBy(xpath="//div[@id='nav-flyout-icp']//span[contains(@class,'nav-text')][contains(text(),'हिंदी - HI')]")
 	private WebElement hindiLanguageLink;
 	
@@ -36,8 +36,8 @@ public class LandingPage {
 	//4. Search Text
 	@FindBy(id="twotabsearchtextbox")
 	private WebElement searchTextInput;
-	
 
+	
 	//Action methods
 	//1. Click on change language link
 	public ChangeLanguageSettingsPage clickChangeLanguageLink() {
@@ -72,5 +72,6 @@ public class LandingPage {
 		searchTextInput.sendKeys(Keys.ENTER);
 		return new ProductSearchResultsPage(driver);
 	}
+	
 	
 }

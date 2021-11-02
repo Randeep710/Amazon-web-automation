@@ -1,5 +1,6 @@
 package com.amazon.testCases;
 
+import java.io.IOException;
 import java.util.Set;
 
 import org.testng.Assert;
@@ -12,14 +13,14 @@ import com.amazon.pageObjects.ProductSearchResultsPage;
 public class TC_AddAProductToCartTest_004 extends BaseClass {
 	
 	@Test
-	public void addAProductToCart() throws InterruptedException {
+	public void addAProductToCart() throws InterruptedException, IOException {
 		
 		logger.info("URL is opened");
 		
 		LandingPage landingPage = new LandingPage(driver);
 		
 		//Test data as variables for searching a product
-		String searchCategory = "All Categories";
+		String searchCategory = "all categories";
 		String searchText = "iphone 11";
 		
 		
@@ -66,6 +67,7 @@ public class TC_AddAProductToCartTest_004 extends BaseClass {
 			logger.info("Test Case Status : PASSED");
 			Assert.assertTrue(true);
 		} else {
+			captureScreenshot(driver, "addAProductToCart");  //capture screenshot as Test Case FAILS
 			logger.info("Test Case Status : PASSED");
 			Assert.assertTrue(false);
 		}

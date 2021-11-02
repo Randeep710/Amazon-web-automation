@@ -1,5 +1,6 @@
 package com.amazon.testCases;
 
+import java.io.IOException;
 import java.util.Set;
 
 import org.testng.Assert;
@@ -13,9 +14,9 @@ import com.amazon.pageObjects.ProductSearchResultsPage;
 public class TC_RemoveAProductFromCartTest_005 extends BaseClass {
 	
 	@Test
-	public void removeAProductFromCart() throws InterruptedException {
+	public void removeAProductFromCart() throws InterruptedException, IOException {
 		
-logger.info("URL is opened");
+		logger.info("URL is opened");
 		
 		LandingPage landingPage = new LandingPage(driver);
 		
@@ -86,7 +87,8 @@ logger.info("URL is opened");
 			logger.info("Test Case Status : PASSED");
 			Assert.assertTrue(true);
 		} else {
-			logger.info("Test Case Status : PASSED");
+			captureScreenshot(driver, "removeAProductFromCart");  //capture screenshot as Test Case FAILS
+			logger.info("Test Case Status : FAILED");
 			Assert.assertTrue(false);
 		}
 		

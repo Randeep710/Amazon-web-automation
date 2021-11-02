@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+<testng-results ignored="0" total="40" passed="40" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-10-30T13:46:08 IST" name="Amazon-web-automation-v1" finished-at="2021-10-30T13:47:54 IST" duration-ms="105772">
+  <suite started-at="2021-11-02T09:10:56 IST" name="Amazon-web-automation-v1" finished-at="2021-11-02T09:22:13 IST" duration-ms="676380">
     <groups>
     </groups>
-    <test started-at="2021-10-30T13:46:08 IST" name="Amazon Web Test" finished-at="2021-10-30T13:47:54 IST" duration-ms="105772">
-      <class name="com.amazon.testCases.TC_RemoveAProductFromCartTest_005">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.amazon.testCases.TC_RemoveAProductFromCartTest_005@6e4784bc]" started-at="2021-10-30T13:47:27 IST" name="setup" finished-at="2021-10-30T13:47:36 IST" duration-ms="8695" status="PASS">
+    <test started-at="2021-11-02T09:10:56 IST" name="Amazon Web Test" finished-at="2021-11-02T09:22:13 IST" duration-ms="676380">
+      <class name="com.amazon.testCases.TC_SearchAProduct_DDT_006">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.amazon.testCases.TC_SearchAProduct_DDT_006@4f209819]" started-at="2021-11-02T09:10:56 IST" name="setup" finished-at="2021-11-02T09:11:03 IST" duration-ms="6369" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,99 +18,651 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="removeAProductFromCart()[pri:0, instance:com.amazon.testCases.TC_RemoveAProductFromCartTest_005@6e4784bc]" started-at="2021-10-30T13:47:36 IST" name="removeAProductFromCart" finished-at="2021-10-30T13:47:53 IST" duration-ms="17306" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- removeAProductFromCart -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.testCases.TC_RemoveAProductFromCartTest_005@6e4784bc]" started-at="2021-10-30T13:47:53 IST" name="tearDown" finished-at="2021-10-30T13:47:54 IST" duration-ms="811" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.amazon.testCases.TC_RemoveAProductFromCartTest_005 -->
-      <class name="com.amazon.testCases.TC_SearchAProductTest_003">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.amazon.testCases.TC_SearchAProductTest_003@29626d54]" started-at="2021-10-30T13:46:41 IST" name="setup" finished-at="2021-10-30T13:46:50 IST" duration-ms="8734" status="PASS">
+        <test-method signature="searchAProductDDT(java.lang.String,java.lang.String)[pri:0, instance:com.amazon.testCases.TC_SearchAProduct_DDT_006@4f209819]" started-at="2021-11-02T09:11:05 IST" name="searchAProductDDT" data-provider="Category-Product-Data" finished-at="2021-11-02T09:11:21 IST" duration-ms="16620" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[chrome]]>
+                <![CDATA[all categories]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[iphone 11]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="searchAProductTest()[pri:0, instance:com.amazon.testCases.TC_SearchAProductTest_003@29626d54]" started-at="2021-10-30T13:46:50 IST" name="searchAProductTest" finished-at="2021-10-30T13:47:03 IST" duration-ms="12945" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- searchAProductTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.testCases.TC_SearchAProductTest_003@29626d54]" started-at="2021-10-30T13:47:03 IST" name="tearDown" finished-at="2021-10-30T13:47:04 IST" duration-ms="725" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.amazon.testCases.TC_SearchAProductTest_003 -->
-      <class name="com.amazon.testCases.TC_ChangeLanguageSettingsPageTest_001">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.amazon.testCases.TC_ChangeLanguageSettingsPageTest_001@63021689]" started-at="2021-10-30T13:46:08 IST" name="setup" finished-at="2021-10-30T13:46:17 IST" duration-ms="8630" status="PASS">
+        </test-method> <!-- searchAProductDDT -->
+        <test-method signature="searchAProductDDT(java.lang.String,java.lang.String)[pri:0, instance:com.amazon.testCases.TC_SearchAProduct_DDT_006@4f209819]" started-at="2021-11-02T09:11:21 IST" name="searchAProductDDT" data-provider="Category-Product-Data" finished-at="2021-11-02T09:11:38 IST" duration-ms="16540" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[chrome]]>
+                <![CDATA[deals]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[monitor]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="changeLanguageSettings()[pri:0, instance:com.amazon.testCases.TC_ChangeLanguageSettingsPageTest_001@63021689]" started-at="2021-10-30T13:46:17 IST" name="changeLanguageSettings" finished-at="2021-10-30T13:46:25 IST" duration-ms="8521" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- changeLanguageSettings -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.testCases.TC_ChangeLanguageSettingsPageTest_001@63021689]" started-at="2021-10-30T13:46:25 IST" name="tearDown" finished-at="2021-10-30T13:46:27 IST" duration-ms="1342" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.amazon.testCases.TC_ChangeLanguageSettingsPageTest_001 -->
-      <class name="com.amazon.testCases.TC_AddAProductToCartTest_004">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.amazon.testCases.TC_AddAProductToCartTest_004@5a63f509]" started-at="2021-10-30T13:47:04 IST" name="setup" finished-at="2021-10-30T13:47:13 IST" duration-ms="9387" status="PASS">
+        </test-method> <!-- searchAProductDDT -->
+        <test-method signature="searchAProductDDT(java.lang.String,java.lang.String)[pri:0, instance:com.amazon.testCases.TC_SearchAProduct_DDT_006@4f209819]" started-at="2021-11-02T09:11:38 IST" name="searchAProductDDT" data-provider="Category-Product-Data" finished-at="2021-11-02T09:11:54 IST" duration-ms="15941" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[chrome]]>
+                <![CDATA[amazon devices]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[echo dot]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="addAProductToCart()[pri:0, instance:com.amazon.testCases.TC_AddAProductToCartTest_004@5a63f509]" started-at="2021-10-30T13:47:13 IST" name="addAProductToCart" finished-at="2021-10-30T13:47:26 IST" duration-ms="13389" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- addAProductToCart -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.testCases.TC_AddAProductToCartTest_004@5a63f509]" started-at="2021-10-30T13:47:26 IST" name="tearDown" finished-at="2021-10-30T13:47:27 IST" duration-ms="831" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.amazon.testCases.TC_AddAProductToCartTest_004 -->
-      <class name="com.amazon.testCases.TC_ChangePageLanguageTest_002">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.amazon.testCases.TC_ChangePageLanguageTest_002@5bd03f44]" started-at="2021-10-30T13:46:27 IST" name="setup" finished-at="2021-10-30T13:46:35 IST" duration-ms="8367" status="PASS">
+        </test-method> <!-- searchAProductDDT -->
+        <test-method signature="searchAProductDDT(java.lang.String,java.lang.String)[pri:0, instance:com.amazon.testCases.TC_SearchAProduct_DDT_006@4f209819]" started-at="2021-11-02T09:11:54 IST" name="searchAProductDDT" data-provider="Category-Product-Data" finished-at="2021-11-02T09:12:11 IST" duration-ms="17290" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[chrome]]>
+                <![CDATA[amazon fashion]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[designer saree]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="landingPageTest()[pri:0, instance:com.amazon.testCases.TC_ChangePageLanguageTest_002@5bd03f44]" started-at="2021-10-30T13:46:35 IST" name="landingPageTest" finished-at="2021-10-30T13:46:41 IST" duration-ms="5356" status="PASS">
+        </test-method> <!-- searchAProductDDT -->
+        <test-method signature="searchAProductDDT(java.lang.String,java.lang.String)[pri:0, instance:com.amazon.testCases.TC_SearchAProduct_DDT_006@4f209819]" started-at="2021-11-02T09:12:11 IST" name="searchAProductDDT" data-provider="Category-Product-Data" finished-at="2021-11-02T09:12:27 IST" duration-ms="16220" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[amazon fresh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[organic vegetables]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- landingPageTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.testCases.TC_ChangePageLanguageTest_002@5bd03f44]" started-at="2021-10-30T13:46:41 IST" name="tearDown" finished-at="2021-10-30T13:46:41 IST" duration-ms="656" status="PASS">
+        </test-method> <!-- searchAProductDDT -->
+        <test-method signature="searchAProductDDT(java.lang.String,java.lang.String)[pri:0, instance:com.amazon.testCases.TC_SearchAProduct_DDT_006@4f209819]" started-at="2021-11-02T09:12:27 IST" name="searchAProductDDT" data-provider="Category-Product-Data" finished-at="2021-11-02T09:12:44 IST" duration-ms="16445" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[amazon pantry]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[colander]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAProductDDT -->
+        <test-method signature="searchAProductDDT(java.lang.String,java.lang.String)[pri:0, instance:com.amazon.testCases.TC_SearchAProduct_DDT_006@4f209819]" started-at="2021-11-02T09:12:44 IST" name="searchAProductDDT" data-provider="Category-Product-Data" finished-at="2021-11-02T09:13:00 IST" duration-ms="16507" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[appliances]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[refrigerator]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAProductDDT -->
+        <test-method signature="searchAProductDDT(java.lang.String,java.lang.String)[pri:0, instance:com.amazon.testCases.TC_SearchAProduct_DDT_006@4f209819]" started-at="2021-11-02T09:13:00 IST" name="searchAProductDDT" data-provider="Category-Product-Data" finished-at="2021-11-02T09:13:16 IST" duration-ms="16190" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[apps and games]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[spotify]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAProductDDT -->
+        <test-method signature="searchAProductDDT(java.lang.String,java.lang.String)[pri:0, instance:com.amazon.testCases.TC_SearchAProduct_DDT_006@4f209819]" started-at="2021-11-02T09:13:16 IST" name="searchAProductDDT" data-provider="Category-Product-Data" finished-at="2021-11-02T09:13:33 IST" duration-ms="16341" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[baby]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[diaper]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAProductDDT -->
+        <test-method signature="searchAProductDDT(java.lang.String,java.lang.String)[pri:0, instance:com.amazon.testCases.TC_SearchAProduct_DDT_006@4f209819]" started-at="2021-11-02T09:13:33 IST" name="searchAProductDDT" data-provider="Category-Product-Data" finished-at="2021-11-02T09:13:49 IST" duration-ms="16730" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[beauty]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[lipstick]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAProductDDT -->
+        <test-method signature="searchAProductDDT(java.lang.String,java.lang.String)[pri:0, instance:com.amazon.testCases.TC_SearchAProduct_DDT_006@4f209819]" started-at="2021-11-02T09:13:49 IST" name="searchAProductDDT" data-provider="Category-Product-Data" finished-at="2021-11-02T09:14:06 IST" duration-ms="16742" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[books]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sapiens]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAProductDDT -->
+        <test-method signature="searchAProductDDT(java.lang.String,java.lang.String)[pri:0, instance:com.amazon.testCases.TC_SearchAProduct_DDT_006@4f209819]" started-at="2021-11-02T09:14:06 IST" name="searchAProductDDT" data-provider="Category-Product-Data" finished-at="2021-11-02T09:14:23 IST" duration-ms="16507" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[car & motorbike]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[coolant]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAProductDDT -->
+        <test-method signature="searchAProductDDT(java.lang.String,java.lang.String)[pri:0, instance:com.amazon.testCases.TC_SearchAProduct_DDT_006@4f209819]" started-at="2021-11-02T09:14:23 IST" name="searchAProductDDT" data-provider="Category-Product-Data" finished-at="2021-11-02T09:14:40 IST" duration-ms="16910" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[clothing & accessories]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[belt for men]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAProductDDT -->
+        <test-method signature="searchAProductDDT(java.lang.String,java.lang.String)[pri:0, instance:com.amazon.testCases.TC_SearchAProduct_DDT_006@4f209819]" started-at="2021-11-02T09:14:40 IST" name="searchAProductDDT" data-provider="Category-Product-Data" finished-at="2021-11-02T09:14:57 IST" duration-ms="17561" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[electronics]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[LED bulb]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAProductDDT -->
+        <test-method signature="searchAProductDDT(java.lang.String,java.lang.String)[pri:0, instance:com.amazon.testCases.TC_SearchAProduct_DDT_006@4f209819]" started-at="2021-11-02T09:14:57 IST" name="searchAProductDDT" data-provider="Category-Product-Data" finished-at="2021-11-02T09:15:14 IST" duration-ms="16567" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[furniture]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sofa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAProductDDT -->
+        <test-method signature="searchAProductDDT(java.lang.String,java.lang.String)[pri:0, instance:com.amazon.testCases.TC_SearchAProduct_DDT_006@4f209819]" started-at="2021-11-02T09:15:14 IST" name="searchAProductDDT" data-provider="Category-Product-Data" finished-at="2021-11-02T09:15:30 IST" duration-ms="16134" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[garden & outdoors]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sprinkler]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAProductDDT -->
+        <test-method signature="searchAProductDDT(java.lang.String,java.lang.String)[pri:0, instance:com.amazon.testCases.TC_SearchAProduct_DDT_006@4f209819]" started-at="2021-11-02T09:15:30 IST" name="searchAProductDDT" data-provider="Category-Product-Data" finished-at="2021-11-02T09:15:46 IST" duration-ms="16169" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gift cards]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[amazon pay egift card]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAProductDDT -->
+        <test-method signature="searchAProductDDT(java.lang.String,java.lang.String)[pri:0, instance:com.amazon.testCases.TC_SearchAProduct_DDT_006@4f209819]" started-at="2021-11-02T09:15:46 IST" name="searchAProductDDT" data-provider="Category-Product-Data" finished-at="2021-11-02T09:16:03 IST" duration-ms="16660" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[grocery & gourmet foods]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tuna]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAProductDDT -->
+        <test-method signature="searchAProductDDT(java.lang.String,java.lang.String)[pri:0, instance:com.amazon.testCases.TC_SearchAProduct_DDT_006@4f209819]" started-at="2021-11-02T09:16:03 IST" name="searchAProductDDT" data-provider="Category-Product-Data" finished-at="2021-11-02T09:16:19 IST" duration-ms="16483" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[health & personal care]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[green tea]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAProductDDT -->
+        <test-method signature="searchAProductDDT(java.lang.String,java.lang.String)[pri:0, instance:com.amazon.testCases.TC_SearchAProduct_DDT_006@4f209819]" started-at="2021-11-02T09:16:19 IST" name="searchAProductDDT" data-provider="Category-Product-Data" finished-at="2021-11-02T09:16:35 IST" duration-ms="16182" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[home & kitchen]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[cutlery set]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAProductDDT -->
+        <test-method signature="searchAProductDDT(java.lang.String,java.lang.String)[pri:0, instance:com.amazon.testCases.TC_SearchAProduct_DDT_006@4f209819]" started-at="2021-11-02T09:16:35 IST" name="searchAProductDDT" data-provider="Category-Product-Data" finished-at="2021-11-02T09:16:52 IST" duration-ms="16365" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[industrial & scientific]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[micrometer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAProductDDT -->
+        <test-method signature="searchAProductDDT(java.lang.String,java.lang.String)[pri:0, instance:com.amazon.testCases.TC_SearchAProduct_DDT_006@4f209819]" started-at="2021-11-02T09:16:52 IST" name="searchAProductDDT" data-provider="Category-Product-Data" finished-at="2021-11-02T09:17:09 IST" duration-ms="17122" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jewellery]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[earrings]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAProductDDT -->
+        <test-method signature="searchAProductDDT(java.lang.String,java.lang.String)[pri:0, instance:com.amazon.testCases.TC_SearchAProduct_DDT_006@4f209819]" started-at="2021-11-02T09:17:09 IST" name="searchAProductDDT" data-provider="Category-Product-Data" finished-at="2021-11-02T09:17:27 IST" duration-ms="18688" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kindle store]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ebooks]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAProductDDT -->
+        <test-method signature="searchAProductDDT(java.lang.String,java.lang.String)[pri:0, instance:com.amazon.testCases.TC_SearchAProduct_DDT_006@4f209819]" started-at="2021-11-02T09:17:27 IST" name="searchAProductDDT" data-provider="Category-Product-Data" finished-at="2021-11-02T09:17:46 IST" duration-ms="18571" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[luggage & bags]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[travel bag]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAProductDDT -->
+        <test-method signature="searchAProductDDT(java.lang.String,java.lang.String)[pri:0, instance:com.amazon.testCases.TC_SearchAProduct_DDT_006@4f209819]" started-at="2021-11-02T09:17:46 IST" name="searchAProductDDT" data-provider="Category-Product-Data" finished-at="2021-11-02T09:18:04 IST" duration-ms="18151" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[luxury beauty]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[makeup kit]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAProductDDT -->
+        <test-method signature="searchAProductDDT(java.lang.String,java.lang.String)[pri:0, instance:com.amazon.testCases.TC_SearchAProduct_DDT_006@4f209819]" started-at="2021-11-02T09:18:04 IST" name="searchAProductDDT" data-provider="Category-Product-Data" finished-at="2021-11-02T09:18:21 IST" duration-ms="16574" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[movies & tv shows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[black hawk down]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAProductDDT -->
+        <test-method signature="searchAProductDDT(java.lang.String,java.lang.String)[pri:0, instance:com.amazon.testCases.TC_SearchAProduct_DDT_006@4f209819]" started-at="2021-11-02T09:18:21 IST" name="searchAProductDDT" data-provider="Category-Product-Data" finished-at="2021-11-02T09:18:37 IST" duration-ms="16557" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[music]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[owl city]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAProductDDT -->
+        <test-method signature="searchAProductDDT(java.lang.String,java.lang.String)[pri:0, instance:com.amazon.testCases.TC_SearchAProduct_DDT_006@4f209819]" started-at="2021-11-02T09:18:37 IST" name="searchAProductDDT" data-provider="Category-Product-Data" finished-at="2021-11-02T09:18:54 IST" duration-ms="16468" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[musical instruments]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[guitar]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAProductDDT -->
+        <test-method signature="searchAProductDDT(java.lang.String,java.lang.String)[pri:0, instance:com.amazon.testCases.TC_SearchAProduct_DDT_006@4f209819]" started-at="2021-11-02T09:18:54 IST" name="searchAProductDDT" data-provider="Category-Product-Data" finished-at="2021-11-02T09:19:10 IST" duration-ms="16154" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[office products]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[shredder]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAProductDDT -->
+        <test-method signature="searchAProductDDT(java.lang.String,java.lang.String)[pri:0, instance:com.amazon.testCases.TC_SearchAProduct_DDT_006@4f209819]" started-at="2021-11-02T09:19:10 IST" name="searchAProductDDT" data-provider="Category-Product-Data" finished-at="2021-11-02T09:19:26 IST" duration-ms="16233" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pet supplies]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pedigree]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAProductDDT -->
+        <test-method signature="searchAProductDDT(java.lang.String,java.lang.String)[pri:0, instance:com.amazon.testCases.TC_SearchAProduct_DDT_006@4f209819]" started-at="2021-11-02T09:19:26 IST" name="searchAProductDDT" data-provider="Category-Product-Data" finished-at="2021-11-02T09:19:43 IST" duration-ms="16369" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[prime video]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[the family man]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAProductDDT -->
+        <test-method signature="searchAProductDDT(java.lang.String,java.lang.String)[pri:0, instance:com.amazon.testCases.TC_SearchAProduct_DDT_006@4f209819]" started-at="2021-11-02T09:19:43 IST" name="searchAProductDDT" data-provider="Category-Product-Data" finished-at="2021-11-02T09:19:59 IST" duration-ms="16302" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shoes & handbags]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[nike jordan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAProductDDT -->
+        <test-method signature="searchAProductDDT(java.lang.String,java.lang.String)[pri:0, instance:com.amazon.testCases.TC_SearchAProduct_DDT_006@4f209819]" started-at="2021-11-02T09:19:59 IST" name="searchAProductDDT" data-provider="Category-Product-Data" finished-at="2021-11-02T09:20:15 IST" duration-ms="16072" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[software]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[windows 10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAProductDDT -->
+        <test-method signature="searchAProductDDT(java.lang.String,java.lang.String)[pri:0, instance:com.amazon.testCases.TC_SearchAProduct_DDT_006@4f209819]" started-at="2021-11-02T09:20:15 IST" name="searchAProductDDT" data-provider="Category-Product-Data" finished-at="2021-11-02T09:20:32 IST" duration-ms="17343" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sports, fitness & outdoors]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[track suit]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAProductDDT -->
+        <test-method signature="searchAProductDDT(java.lang.String,java.lang.String)[pri:0, instance:com.amazon.testCases.TC_SearchAProduct_DDT_006@4f209819]" started-at="2021-11-02T09:20:32 IST" name="searchAProductDDT" data-provider="Category-Product-Data" finished-at="2021-11-02T09:20:49 IST" duration-ms="16781" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tools & home improvement]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tool kit]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAProductDDT -->
+        <test-method signature="searchAProductDDT(java.lang.String,java.lang.String)[pri:0, instance:com.amazon.testCases.TC_SearchAProduct_DDT_006@4f209819]" started-at="2021-11-02T09:20:49 IST" name="searchAProductDDT" data-provider="Category-Product-Data" finished-at="2021-11-02T09:21:06 IST" duration-ms="16775" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[toys & games]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jigsaw puzzles]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAProductDDT -->
+        <test-method signature="searchAProductDDT(java.lang.String,java.lang.String)[pri:0, instance:com.amazon.testCases.TC_SearchAProduct_DDT_006@4f209819]" started-at="2021-11-02T09:21:06 IST" name="searchAProductDDT" data-provider="Category-Product-Data" finished-at="2021-11-02T09:21:22 IST" duration-ms="15984" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[under ₹500]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tshirts]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAProductDDT -->
+        <test-method signature="searchAProductDDT(java.lang.String,java.lang.String)[pri:0, instance:com.amazon.testCases.TC_SearchAProduct_DDT_006@4f209819]" started-at="2021-11-02T09:21:22 IST" name="searchAProductDDT" data-provider="Category-Product-Data" finished-at="2021-11-02T09:21:38 IST" duration-ms="16319" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[video games]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[contra]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAProductDDT -->
+        <test-method signature="searchAProductDDT(java.lang.String,java.lang.String)[pri:0, instance:com.amazon.testCases.TC_SearchAProduct_DDT_006@4f209819]" started-at="2021-11-02T09:21:38 IST" name="searchAProductDDT" data-provider="Category-Product-Data" finished-at="2021-11-02T09:21:55 IST" duration-ms="17199" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[watches]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[fossil]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAProductDDT -->
+        <test-method signature="searchAProductDDT(java.lang.String,java.lang.String)[pri:0, instance:com.amazon.testCases.TC_SearchAProduct_DDT_006@4f209819]" started-at="2021-11-02T09:21:55 IST" name="searchAProductDDT" data-provider="Category-Product-Data" finished-at="2021-11-02T09:22:11 IST" duration-ms="16139" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[alexa skills]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[buddha speaks]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAProductDDT -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.testCases.TC_SearchAProduct_DDT_006@4f209819]" started-at="2021-11-02T09:22:11 IST" name="tearDown" finished-at="2021-11-02T09:22:13 IST" duration-ms="1122" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.amazon.testCases.TC_ChangePageLanguageTest_002 -->
+      </class> <!-- com.amazon.testCases.TC_SearchAProduct_DDT_006 -->
     </test> <!-- Amazon Web Test -->
   </suite> <!-- Amazon-web-automation-v1 -->
 </testng-results>
