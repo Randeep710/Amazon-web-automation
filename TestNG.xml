@@ -13,14 +13,13 @@
 		<classes>
 		<!--  
 			#Put here, test cases that are not to be executed
+			
+		-->
 			<class name="com.amazon.testCases.TC_ChangeLanguageSettingsPageTest_001" />
 			<class name="com.amazon.testCases.TC_ChangePageLanguageTest_002" />
 			<class name="com.amazon.testCases.TC_SearchAProductTest_003" />
 			<class name="com.amazon.testCases.TC_AddAProductToCartTest_004" />
 			<class name="com.amazon.testCases.TC_RemoveAProductFromCartTest_005" />
-			
-		-->
-			
 			<class name="com.amazon.testCases.TC_SearchAProduct_DDT_006" />
 			
 
